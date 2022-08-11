@@ -34,6 +34,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1553/A | [Digit Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1553A-Digits%20Sum.cpp) | Basic Math, Number Theory |
 | 282/A | [Bit++](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/282A-bit%2B%2B.cpp) | Implementation |
 | 263/A | [Beautify Matrix](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/263A-Beautify%20Matrix.cpp) | Implementation |
+| 151/A | [Soft Drinking](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/151A-Soft%20Drinking.cpp) | Implementation |
 
 #### 1100 Rating
 

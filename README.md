@@ -14,6 +14,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
     * [1200](https://github.com/RougeKitten/DSA#1200-rating)  
     * [1400](https://github.com/RougeKitten/DSA#1400-rating)
   - [LeetCode](https://github.com/RougeKitten/DSA#leetcode)
+  - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)
 2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   
@@ -60,6 +61,11 @@ Click on the link to access the solution along with the code. I am still in the 
 | Name | Difficulty    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 136. [Single Number](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/136.%20Single%20Number.cpp) | Easy | Bit Manipulation |
+
+## GeeksForGeeks
+| Name | Difficulty    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| [Set bits in N equals to M in the given range](https://github.com/RougeKitten/DSA/blob/main/Bit%20Manipulation/3.%20Inserting%20m%20into%20n%20such%20that%20m%20starts%20at%20bit%20j%20and%20ends%20at%20bit%20i.md) | Hard | Bit Manipulation |
 
 ## Key Notes
 

@@ -7,11 +7,11 @@ I have also tried to add a few notes or code snippets for important concepts whi
 
 ## Table of Content
 
-1. [Problems](https://github.com/RougeKitten/DSA/edit/main/README.md#problems)
-  - [Code Forces](https://github.com/RougeKitten/DSA/edit/main/README.md#code-forces)
-    * [800](https://github.com/RougeKitten/DSA/edit/main/README.md#800)  
-    * [1400](https://github.com/RougeKitten/DSA/edit/main/README.md#1400)
-2. [Notes](https://github.com/RougeKitten/DSA/edit/main/README.md#key-notes)
+1. [Problems](https://github.com/RougeKitten/DSA#problems)
+  - [Code Forces](https://github.com/RougeKitten/DSA#code-forces)
+    * [800](https://github.com/RougeKitten/DSA#800)  
+    * [1400](https://github.com/RougeKitten/DSA#1400)
+2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   
 

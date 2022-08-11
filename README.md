@@ -31,6 +31,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1541/A | [Pretty Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1541A-Pretty%20Permutations.cpp) | Basic Math |
 | 1547/A | [Shortest Path with Obstacles](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1547A-Shortest%20Path%20with%20Obstacle.cpp) | Basic Math |
 | 1553/A | [Digit Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1553A-Digits%20Sum.cpp) | Basic Math, Number Theory |
+| 282/A | [Bit++](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/282A-bit%2B%2B.cpp) | Implementation |
 
 #### 1100 Rating
 

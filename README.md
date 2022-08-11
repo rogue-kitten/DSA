@@ -11,6 +11,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
   - [Code Forces](https://github.com/RougeKitten/DSA#code-forces)
     * [800](https://github.com/RougeKitten/DSA#800-rating)  
     * [1100](https://github.com/RougeKitten/DSA#1100-rating)  
+    * [1200](https://github.com/RougeKitten/DSA#1200-rating)  
     * [1400](https://github.com/RougeKitten/DSA#1400-rating)
 2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
@@ -38,6 +39,13 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :------- |
 | 988/B | [Substring Sort](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/988B-Substring%20Sort.cpp) | String, Sorting |
+
+#### 1200 Rating
+
+| Problem ID | Name    |   Topic Tags    |
+| :-------- | :------- | :------- |
+| 514/A | [Chewbacca and Number](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/514A-Chewbacca%20and%20Number.cpp) | Implementation |
+
 
 #### 1400 Rating
 

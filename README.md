@@ -66,6 +66,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | Name | Difficulty    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | [Set bits in N equals to M in the given range](https://github.com/RougeKitten/DSA/blob/main/Bit%20Manipulation/3.%20Inserting%20m%20into%20n%20such%20that%20m%20starts%20at%20bit%20j%20and%20ends%20at%20bit%20i.md) | Hard | Bit Manipulation |
+| [Unique Number II](https://github.com/RougeKitten/DSA/blob/main/Bit%20Manipulation/5.%20Unique%20Number%20II.md) | Hard | Bit Manipulation |
 
 ## Key Notes
 

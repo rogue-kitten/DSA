@@ -13,6 +13,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
     * [1100](https://github.com/RougeKitten/DSA#1100-rating)  
     * [1200](https://github.com/RougeKitten/DSA#1200-rating)  
     * [1400](https://github.com/RougeKitten/DSA#1400-rating)
+  - [LeetCode](https://github.com/RougeKitten/DSA#leetcode)
 2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   
@@ -52,9 +53,13 @@ Click on the link to access the solution along with the code. I am still in the 
 #### 1400 Rating
 
 | Problem ID | Name    |   Topic Tags    |
-| :-------- | :------- | :------- |
+| :-------- | :------- | :-------        |
 | 1324/D | [Pair of Topics](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1324D-Pair%20of%20Topics.cpp) | PBDS, Inversion Count |
 
+## LeetCode
+| Name | Difficulty    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| 136. [Single Number](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/136.%20Single%20Number.cpp) | Easy | Bit Manipulation |
 
 ## Key Notes
 

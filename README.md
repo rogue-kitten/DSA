@@ -9,8 +9,8 @@ I have also tried to add a few notes or code snippets for important concepts whi
 
 1. [Problems](https://github.com/RougeKitten/DSA#problems)
   - [Code Forces](https://github.com/RougeKitten/DSA#code-forces)
-    * [800](https://github.com/RougeKitten/DSA#800)  
-    * [1400](https://github.com/RougeKitten/DSA#1400)
+    * [800](https://github.com/RougeKitten/DSA#800-rating)  
+    * [1400](https://github.com/RougeKitten/DSA#1400-rating)
 2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   

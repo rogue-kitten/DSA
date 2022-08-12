@@ -12,6 +12,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
     * [800](https://github.com/RougeKitten/DSA#800-rating)  
     * [1100](https://github.com/RougeKitten/DSA#1100-rating)  
     * [1200](https://github.com/RougeKitten/DSA#1200-rating)  
+    * [1300](https://github.com/RougeKitten/DSA#1300-rating)  
     * [1400](https://github.com/RougeKitten/DSA#1400-rating)
   - [LeetCode](https://github.com/RougeKitten/DSA#leetcode)
   - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)

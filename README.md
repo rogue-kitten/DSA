@@ -30,33 +30,33 @@ Click on the link to access the solution along with the code. I am still in the 
 
 | Problem ID | Name    |  Topic Tags    |
 | :-------- | :------- | :------- |
-| 1520/B | [Ordinary Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1520B-Ordinary%20Numbers.cpp) | Basic Math |
-| 1541/A | [Pretty Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1541A-Pretty%20Permutations.cpp) | Basic Math |
-| 1547/A | [Shortest Path with Obstacles](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1547A-Shortest%20Path%20with%20Obstacle.cpp) | Basic Math |
-| 1553/A | [Digit Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1553A-Digits%20Sum.cpp) | Basic Math, Number Theory |
-| 282/A | [Bit++](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/282A-bit%2B%2B.cpp) | Implementation |
-| 263/A | [Beautify Matrix](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/263A-Beautify%20Matrix.cpp) | Implementation |
-| 151/A | [Soft Drinking](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/151A-Soft%20Drinking.cpp) | Implementation |
-| 723/A | [The New Year: Meeting Friends](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/723AThe%20New%20Year:%20Meeting%20Friends.cpp) | Implementation |
+| 1520/B | [Ordinary Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1520B.cpp) | Basic Math |
+| 1541/A | [Pretty Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1541A.cpp) | Basic Math |
+| 1547/A | [Shortest Path with Obstacles](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1547A.cpp) | Basic Math |
+| 1553/A | [Digit Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1553A.cpp) | Basic Math, Number Theory |
+| 282/A | [Bit++](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/282A.cpp) | Implementation |
+| 263/A | [Beautify Matrix](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/263A.cpp) | Implementation |
+| 151/A | [Soft Drinking](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/151A.cpp) | Implementation |
+| 723/A | [The New Year: Meeting Friends](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/723A.cpp) | Implementation |
 
 #### 1100 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :------- |
-| 988/B | [Substring Sort](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/988B-Substring%20Sort.cpp) | String, Sorting |
+| 988/B | [Substring Sort](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/988B.cpp) | String, Sorting |
 
 #### 1200 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :------- |
-| 514/A | [Chewbacca and Number](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/514A-Chewbacca%20and%20Number.cpp) | Implementation |
+| 514/A | [Chewbacca and Number](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/514A.cpp) | Implementation |
 
 
 #### 1400 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
-| 1324/D | [Pair of Topics](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1324D-Pair%20of%20Topics.cpp) | PBDS, Inversion Count |
+| 1324/D | [Pair of Topics](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1324D.cpp) | PBDS, Inversion Count |
 
 ## LeetCode
 | Name | Difficulty    |   Topic Tags    |

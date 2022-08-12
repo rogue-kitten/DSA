@@ -67,6 +67,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1324/D | [Pair of Topics](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1324D.cpp) | PBDS, Inversion Count |
+| 1095/C | [Powers of Two](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1095C.md) | Bit Manipulation, Greedy |
 
 ## LeetCode
 | Name | Difficulty    |   Topic Tags    |

@@ -51,6 +51,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :------- |
 | 514/A | [Chewbacca and Number](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/514A.cpp) | Implementation |
+| 1097/B | [Petr and a Combination Lock](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1097B.cpp) | Implementation |
 
 #### 1300 Rating
 

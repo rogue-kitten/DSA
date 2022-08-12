@@ -51,6 +51,12 @@ Click on the link to access the solution along with the code. I am still in the 
 | :-------- | :------- | :------- |
 | 514/A | [Chewbacca and Number](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/514A.cpp) | Implementation |
 
+#### 1300 Rating
+
+| Problem ID | Name    |   Topic Tags    |
+| :-------- | :------- | :------- |
+| 912/B | [New Year's Eve](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/912B.cpp) | Bit Manipulation |
+
 
 #### 1400 Rating
 

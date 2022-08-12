@@ -44,6 +44,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :------- |
 | 988/B | [Substring Sort](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/988B.cpp) | String, Sorting |
+| 1594/B | [Special Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/1594B.cpp) | Bit Manipulation |
 
 #### 1200 Rating
 

@@ -77,6 +77,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1151/B | [Dima and a Bad Xor](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1151B.md) | Bit Manipulation, Greedy |
+| 1225/C | [p-binary](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1225C.md) | Bit Manipulation, Greedy |
 
 ## LeetCode
 | Name | Difficulty    |   Topic Tags    |

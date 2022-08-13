@@ -14,6 +14,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
     * [1200](https://github.com/RougeKitten/DSA#1200-rating)  
     * [1300](https://github.com/RougeKitten/DSA#1300-rating)  
     * [1400](https://github.com/RougeKitten/DSA#1400-rating)
+    * [1600](https://github.com/RougeKitten/DSA#1600-rating)
   - [LeetCode](https://github.com/RougeKitten/DSA#leetcode)
   - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)
 2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
@@ -69,6 +70,13 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1324/D | [Pair of Topics](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1324D.cpp) | PBDS, Inversion Count |
 | 1095/C | [Powers of Two](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1095C.md) | Bit Manipulation, Greedy |
 | 1494/B | [Berland Crossword](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1494B.md) | Bit Manipulation, Greedy |
+
+
+#### 1600 Rating
+
+| Problem ID | Name    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| 1151/B | [Dima and a Bad Xor](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1151B.md) | Bit Manipulation, Greedy |
 
 ## LeetCode
 | Name | Difficulty    |   Topic Tags    |

@@ -97,3 +97,5 @@ Click on the link to access the solution along with the code. I am still in the 
 1. [Policy Based Data Structures](https://github.com/RougeKitten/DSA/tree/main/Policy%20Based%20Data%20Structure)
 2. [Strings](https://github.com/RougeKitten/DSA/tree/main/String)
 3. [Bit Manipulaiton](https://github.com/RougeKitten/DSA/tree/main/Bit%20Manipulation)
+4. [Basic Math](https://github.com/RougeKitten/DSA/tree/main/Basic%20Math)
+

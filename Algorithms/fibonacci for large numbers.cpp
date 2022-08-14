@@ -22,3 +22,5 @@ main(){
 	while (cin >> n)
 	cout << (n==0 ? 0 : f(n-1)) << endl;
 }
+
+// TC -> O(logn * log logn)

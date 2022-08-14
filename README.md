@@ -17,6 +17,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
     * [1600](https://github.com/RougeKitten/DSA#1600-rating)
   - [LeetCode](https://github.com/RougeKitten/DSA#leetcode)
   - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)
+  - [SPOJ](https://github.com/RougeKitten/DSA#spoj)
 2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   
@@ -91,6 +92,11 @@ Click on the link to access the solution along with the code. I am still in the 
 | :-------- | :------- | :-------        |
 | [Set bits in N equals to M in the given range](https://github.com/RougeKitten/DSA/blob/main/Bit%20Manipulation/3.%20Inserting%20m%20into%20n%20such%20that%20m%20starts%20at%20bit%20j%20and%20ends%20at%20bit%20i.md) | Hard | Bit Manipulation |
 | [Unique Number II](https://github.com/RougeKitten/DSA/blob/main/Bit%20Manipulation/5.%20Unique%20Number%20II.md) | Hard | Bit Manipulation |
+
+## SPOJ
+| Name | Difficulty    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| [PULKA](https://github.com/RougeKitten/DSA/blob/main/Basic%20Math/Big%20Integer%20Arithmatic.cpp) | Medium | Big Integer Arithmatics |
 
 ## Key Notes
 

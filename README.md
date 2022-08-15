@@ -29,7 +29,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
 
 Click on the link to access the solution along with the code. I am still in the process of adding detailed solutions to all the problems, only the trivial ones are left. 
 
-#### 800 Rating
+### 800 Rating
 
 | Problem ID | Name    |  Topic Tags    |
 | :-------- | :------- | :------- |
@@ -42,21 +42,21 @@ Click on the link to access the solution along with the code. I am still in the 
 | 151/A | [Soft Drinking](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/151A.cpp) | Implementation |
 | 723/A | [The New Year: Meeting Friends](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/723A.cpp) | Implementation |
 
-#### 1100 Rating
+### 1100 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :------- |
 | 988/B | [Substring Sort](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/988B.cpp) | String, Sorting |
 | 1594/B | [Special Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/1594B.cpp) | Bit Manipulation |
 
-#### 1200 Rating
+### 1200 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :------- |
 | 514/A | [Chewbacca and Number](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/514A.cpp) | Implementation |
 | 1097/B | [Petr and a Combination Lock](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1097B.cpp) | Implementation |
 
-#### 1300 Rating
+### 1300 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :------- |
@@ -64,7 +64,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1602/C | [Array Elimination](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1602C.cpp) | Bit Manipulation, Number Theory |
 
 
-#### 1400 Rating
+### 1400 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
@@ -73,7 +73,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1494/B | [Berland Crossword](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1494B.md) | Bit Manipulation, Greedy |
 
 
-#### 1600 Rating
+### 1600 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |

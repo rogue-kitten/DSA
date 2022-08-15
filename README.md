@@ -98,7 +98,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | :-------- | :------- | :-------        |
 | [PULKA](https://github.com/RougeKitten/DSA/blob/main/Basic%20Math/Big%20Integer%20Arithmatic.cpp) | Medium | Big Integer Arithmatics |
 
-## Key Notes
+# Key Notes
 
 1. [Policy Based Data Structures](https://github.com/RougeKitten/DSA/tree/main/Policy%20Based%20Data%20Structure)
 2. [Strings](https://github.com/RougeKitten/DSA/tree/main/String)

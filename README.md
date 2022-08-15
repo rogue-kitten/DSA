@@ -62,6 +62,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | :-------- | :------- | :------- |
 | 912/B | [New Year's Eve](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/912B.cpp) | Bit Manipulation |
 | 1602/C | [Array Elimination](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1602C.cpp) | Bit Manipulation, Number Theory |
+| 185/A | [Plant](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/185A.md) | Maths |
 
 
 ### 1400 Rating

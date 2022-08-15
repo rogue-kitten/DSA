@@ -97,6 +97,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | Name | Difficulty    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | [PULKA](https://github.com/RougeKitten/DSA/blob/main/Basic%20Math/Big%20Integer%20Arithmatic.cpp) | Medium | Big Integer Arithmatics |
+| [SEQ](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SEQ.cpp) | Medium | Matrix Exponentiation |
 
 # Key Notes
 

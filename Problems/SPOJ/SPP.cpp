@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
- 
+
 using namespace std;
 #define ll long long
-#define mod (ll)1e9
+#define emod 1000000000
 #define vi vector<int>
 #define vll vector<long long>
 #define vvi vector<vector<int>>
@@ -13,9 +13,9 @@ using namespace std;
 #define pb push_back
 #define maxHeap  priority_queue<int>
 #define minHeap  priority_queue<int, vector<int>, greater<int> >
- 
-ll p;
- 
+
+ll mod;
+
 vector<vll> multiply(vector<vll> a, vector<vll> b){
 	int k = a.size();
 	vector<vll> ans(k, vll (k));
@@ -23,13 +23,13 @@ vector<vll> multiply(vector<vll> a, vector<vll> b){
 		for(int j = 0; j < k; j++){
 			ans[i][j] = 0;
 			for(int x = 0; x < k; x++){
-				ans[i][j] = (ans[i][j] + (a[i][x]*b[x][j]) % p) % p;
+				ans[i][j] = (ans[i][j] + (a[i][x]*b[x][j]) % mod) % mod;
 			}
 		}
 	}
 	return ans;
 }
- 
+
 vector<vll> power(vector<vll> A, ll n){
 	if(n == 1)
 		return A;
@@ -38,79 +38,70 @@ vector<vll> power(vector<vll> A, ll n){
 	vector<vll> x = power(A, n/2);
 	return multiply(x, x);
 }
- 
-ll matrixExp(int k, ll n, vll b, vll c){
-	if(n <= k){
-		ll sum = 0;
-		for(int i = 0; i < n; i++){
-			sum = (sum + (b[i] % p)) % p;
-		}
-		return sum;
+
+ll matExp(int k, ll n, vll b, vll c, vll s){
+	if(n <= k)
+		return s[n-1];
+
+	vll f(k + 1);
+	
+	int j = k - 1;
+	for(int i = 1; i <= k; i++){
+		f[i] = b[j];
+		j--;
 	}
-	else{
-		// create a transformation matrix
-		vector<vll> T (k + 1, vll(k + 1));
-		for(int i = 0; i < k - 1; i++){
-			for(int j = 0; j < k + 1; j++){
-				if(j == i + 1)
-					T[i][j] = 1;
-				else
-					T[i][j] = 0;
-			}
-		}
-		for(int i = 0; i < k + 1; i++){
-			if(i == k)
-				T[k - 1][i] = 0;
-			else
-				T[k-1][i] = c[k - 1 - i];
-		}
-		for(int i = 0; i < k + 1; i++){
-			if(i == 1 || i == k)
-				T[k][i] = 1;
-			else
-				T[k][i] = 0;
-		}
- 
-		// get the value of T^n-1
-		T = power(T, n - 1);
-		// the answer would be the last element of F(n), so we compute only the last element and not the entire array
-		ll res = 0;
-		for(int i = 0; i < k + 1; i++){
-			res = (res + (T[k][i]*b[i]) % p) % p;
-		}
-		return res;	
+
+	f[0] = s[k-1];
+	// create a transformation matrix
+	vector<vll> T (k + 1, vll(k + 1, 0));
+	T[0][0] = 1;
+	for(int i = 1; i <= k; i++){
+		T[0][i] = T[1][i] = c[i-1];
 	}
+
+	for(int i = 2; i <= k; i++){
+		T[i][i-1] = 1;
+	}
+
+	// get the value of T^n-k
+	T = power(T, n - k);
+	// the answer would be the first element of F(n), so we compute only the first element and not the entire array
+	ll res = 0;
+	for(int i = 0; i <= k; i++){
+		res = (res + (T[0][i]*f[i]) % mod) % mod;
+	}
+	return res;
 }
- 
+
 int main(){
 	int t;
 	cin >> t;
 	while(t--){
 		int k;
 		cin >> k;
-		vll b(k + 1), c(k);
- 
+		vll b(k), c(k), s(k);
+
 		for(int i = 0; i < k; i++){
 			cin >> b[i];
 		}
-		b[k] = b[0];
- 
 		for(int i = 0; i < k; i++){
 			cin >> c[i];
 		}
- 
-		ll m, n;
-		cin >> m >> n >> p;
- 
-		ll x = matrixExp(k, n, b, c);
-		if(m == 1){
-			print(x);
-			continue;
+		s[0] = b[0];
+		for(int i = 1; i < k; i++){
+			s[i] = s[i-1] + b[i];
 		}
+		ll m, n;
+		cin >> m >> n >> mod;
 
-		ll y = matrixExp(k, m - 1, b, c);
-		print((x - y)%p);
- 
+		ll x = matExp(k, n, b, c, s);
+		// print(x);
+		ll y = matExp(k, m - 1, b, c, s);
+		// print(y);
+		ll ans = (x-y)%mod;
+		ans += mod;
+		ans %= mod;
+		print(ans);
+		
 	}
-	return 0;
 }

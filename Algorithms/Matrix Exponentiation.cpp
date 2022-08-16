@@ -2,7 +2,7 @@
 
 using namespace std;
 #define ll long long
-#define mod (ll)1e9
+#define mod 1000000000
 #define vi vector<int>
 #define vll vector<long long>
 #define vvi vector<vector<int>>
@@ -38,33 +38,31 @@ vector<vll> power(vector<vll> A, ll n){
 	return multiply(x, x);
 }
 
-void matrixExp(int k, ll n, vll b, vll c){
+ll matExp(int k, ll n, vll b, vll c){
 	if(n == 0)
-		print(0);
+		return 0;
 	else if(n <= k)
-		print(b[n - 1]);
+		return b[k - n];
 	else{
 		// create a transformation matrix
 		vector<vll> T (k, vll(k));
-		for(int i = 0; i < k - 1; i++){
+		T[0] = c;
+		for(int i = 1; i < k; i++){
 			for(int j = 0; j < k; j++){
-				if(j == i + 1)
+				if(i == j + 1)
 					T[i][j] = 1;
 				else
 					T[i][j] = 0;
 			}
 		}
-		for(int i = 0; i < k; i++){
-			T[k-1][i] = c[k - 1 - i];
-		}
-		// get the value of T^n-1
-		T = power(T, n - 1);
+		// get the value of T^n-k
+		T = power(T, n - k);
 		// the answer would be the first element of F(n), so we compute only the first element and not the entire array
 		ll res = 0;
 		for(int i = 0; i < k; i++){
 			res = (res + (T[0][i]*b[i]) % mod) % mod;
 		}
-		print(res); 
+		return res;
 	}
 }
 
@@ -76,7 +74,7 @@ int main(){
 		cin >> k;
 		vll b(k), c(k);
 
-		for(int i = 0; i < k; i++){
+		for(int i = k - 1; i >= 0; i--){
 			cin >> b[i];
 		}
 		for(int i = 0; i < k; i++){
@@ -85,8 +83,7 @@ int main(){
 		ll n;
 		cin >> n;
 
-		matrixExp(k, n, b, c);
+		print(matExp(k, n, b, c));
+		
 	}
-	return 0;
 }
-

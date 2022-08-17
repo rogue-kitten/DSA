@@ -42,6 +42,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 151/A | [Soft Drinking](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/151A.cpp) | Implementation |
 | 723/A | [The New Year: Meeting Friends](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/723A.cpp) | Implementation |
 | 1712/A | [Wonderful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712A.cpp) | Implementation |
+| 1712/B | [Woeful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712B.cpp) | Number Theory |
 
 ### 1100 Rating
 
@@ -49,6 +50,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | :-------- | :------- | :------- |
 | 988/B | [Substring Sort](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/988B.cpp) | String, Sorting |
 | 1594/B | [Special Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/1594B.cpp) | Bit Manipulation |
+| 1712/C | [Sort Zeros](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/1712C.cpp) | Bit Manipulation |
 
 ### 1200 Rating
 

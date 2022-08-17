@@ -7,7 +7,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
 
 ## Table of Content
 
-1. [Problems](https://github.com/RougeKitten/DSA#problems)
+- [Problems](https://github.com/RougeKitten/DSA#problems)
   - [Code Forces](https://github.com/RougeKitten/DSA#code-forces)
     * [800](https://github.com/RougeKitten/DSA#800-rating)  
     * [1100](https://github.com/RougeKitten/DSA#1100-rating)  
@@ -19,7 +19,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
   - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)
   - [SPOJ](https://github.com/RougeKitten/DSA#spoj)
   - [Code Chef](https://github.com/RougeKitten/DSA#code-chef)
-2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
+- [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   
 

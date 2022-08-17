@@ -18,6 +18,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
   - [LeetCode](https://github.com/RougeKitten/DSA#leetcode)
   - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)
   - [SPOJ](https://github.com/RougeKitten/DSA#spoj)
+  - [Code Chef](https://github.com/RougeKitten/DSA#code-chef)
 2. [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   
@@ -104,6 +105,16 @@ Click on the link to access the solution along with the code. I am still in the 
 | [SEQ](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SEQ.cpp) | Medium | Matrix Exponentiation |
 | [SPP](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SPP.cpp) | Hard | Matrix Exponentiation |
 | [MPOW](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/MPOW.cpp) | Easy | Matrix |
+
+## Code Chef
+| Name | Rating    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| [AFLIP](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/AFLIP.cpp) | 1835 | Implementation, Greedy |
+| [SMALLXOR](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/SMALLXOR.cpp) | 1635 | Bit Manipulation, Greedy |
+| [TWOTRAINS](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/TWOTRAINS.cpp) | 1230 | Implementation |
+| [HLEQN](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/HLEQN.cpp) | 1312 | Implementation |
+| [XOREQUAL](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/XOREQUAL.cpp) | 1403 | Bit Manipulation |
+
 
 # Key Notes
 

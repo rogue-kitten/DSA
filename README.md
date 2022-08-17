@@ -41,6 +41,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 263/A | [Beautify Matrix](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/263A.cpp) | Implementation |
 | 151/A | [Soft Drinking](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/151A.cpp) | Implementation |
 | 723/A | [The New Year: Meeting Friends](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/723A.cpp) | Implementation |
+| 1712/A | [Wonderful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712A.cpp) | Implementation |
 
 ### 1100 Rating
 

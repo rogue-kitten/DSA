@@ -116,6 +116,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [TWOTRAINS](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/TWOTRAINS.cpp) | 1230 | Implementation |
 | [HLEQN](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/HLEQN.cpp) | 1312 | Implementation |
 | [XOREQUAL](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/XOREQUAL.cpp) | 1403 | Bit Manipulation |
+| [DIVSUBS](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/DIVSUBS.md) | 2392 | Pigeonhole, prefix sum |
 
 
 # Key Notes

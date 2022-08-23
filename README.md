@@ -112,6 +112,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [FAVDICE](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FAVDICE.cpp) | Easy | Bernouli |
 | [FIBOSUM](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FIBOSUM.cpp) | Easy | Matrix Exp |
 | [SUMSUMS](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SUMSUMS.cpp) | Hard | Matrix Exp |
+| [MARBLES](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/MARBLES.cpp) | Medium | Combinatorics |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

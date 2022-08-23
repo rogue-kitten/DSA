@@ -108,6 +108,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [SPP](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SPP.cpp) | Hard | Matrix Exponentiation |
 | [MPOW](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/MPOW.cpp) | Easy | Matrix |
 | [HOLI](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/HOLI.cpp) | Hard | Graphs, Pigeonhole |
+| [FAVDICE](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FAVDICE.cpp) | Easy | Bernouli |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

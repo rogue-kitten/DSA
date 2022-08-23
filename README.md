@@ -111,6 +111,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [HOLI](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/HOLI.cpp) | Hard | Graphs, Pigeonhole |
 | [FAVDICE](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FAVDICE.cpp) | Easy | Bernouli |
 | [FIBOSUM](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FIBOSUM.cpp) | Easy | Matrix Exp |
+| [SUMSUMS](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SUMSUMS.cpp) | Hard | Matrix Exp |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

@@ -107,6 +107,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [SEQ](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SEQ.cpp) | Medium | Matrix Exponentiation |
 | [SPP](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SPP.cpp) | Hard | Matrix Exponentiation |
 | [MPOW](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/MPOW.cpp) | Easy | Matrix |
+| [HOLI](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/HOLI.cpp) | Hard | Graphs, Pigeonhole |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

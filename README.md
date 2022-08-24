@@ -10,6 +10,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
 - [Problems](https://github.com/RougeKitten/DSA#problems)
   - [Code Forces](https://github.com/RougeKitten/DSA#code-forces)
     * [800](https://github.com/RougeKitten/DSA#800-rating)  
+    * [900](https://github.com/RougeKitten/DSA#900-rating)  
     * [1100](https://github.com/RougeKitten/DSA#1100-rating)  
     * [1200](https://github.com/RougeKitten/DSA#1200-rating)  
     * [1300](https://github.com/RougeKitten/DSA#1300-rating)  
@@ -44,6 +45,12 @@ Click on the link to access the solution along with the code. I am still in the 
 | 723/A | [The New Year: Meeting Friends](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/723A.cpp) | Implementation |
 | 1712/A | [Wonderful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712A.cpp) | Implementation |
 | 1712/B | [Woeful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712B.cpp) | Number Theory |
+
+### 900 Rating
+
+| Problem ID | Name    |  Topic Tags    |
+| :-------- | :------- | :------- |
+| 26/A | [Almost Primes](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/900/26A.cpp) | Number Theory |
 
 ### 1100 Rating
 

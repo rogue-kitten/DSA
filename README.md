@@ -132,4 +132,5 @@ Click on the link to access the solution along with the code. I am still in the 
 2. [Strings](https://github.com/RougeKitten/DSA/tree/main/String)
 3. [Bit Manipulaiton](https://github.com/RougeKitten/DSA/tree/main/Bit%20Manipulation)
 4. [Basic Math](https://github.com/RougeKitten/DSA/tree/main/Basic%20Math)
+5. [Number Theory](https://github.com/RougeKitten/DSA/tree/main/Number%20Theory)
 

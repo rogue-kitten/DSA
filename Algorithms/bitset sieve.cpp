@@ -1,4 +1,4 @@
-// works for large numbers ~1e14
+// can use this bitset sieve method to check if a number is prime or not till the 10^14.
 #include<bits/stdc++.h>
 
 using namespace std;

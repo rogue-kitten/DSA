@@ -93,6 +93,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | :-------- | :------- | :-------        |
 | 1151/B | [Dima and a Bad Xor](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1151B.md) | Bit Manipulation, Greedy |
 | 1225/C | [p-binary](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1225C.md) | Bit Manipulation, Greedy |
+| 1342/C | [Yet Another Counting Problem](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1342C.cpp) | Number Theory |
 
 ## LeetCode
 | Name | Difficulty    |   Topic Tags    |

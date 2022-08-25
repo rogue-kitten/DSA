@@ -8,11 +8,11 @@ ll solve(ll a, ll n){
 	if(n == 1)
 		return a;
 
-	ll x = (solve(a, n/2) % mod);
+	ll x = solve(a, n/2);
 	if(n&1)
-		return (a*((x*x)%mod))%mod;
+		return a*x*x;
 
 	else
-		return (x*x)%mod;
+		return x*x;
 }
 

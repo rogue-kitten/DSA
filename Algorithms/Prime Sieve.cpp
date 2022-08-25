@@ -17,37 +17,41 @@ using namespace std;
 #define minHeap  priority_queue<int, vector<int>, greater<int> >
 
 // 1 marks for prime, zero marks for not prime. 
-void prime_sieve(int *p){
-	// skip all even numbers and mark all odd as prime. 
-	for(int i = 3; i <= 1000000; i+=2){
+vector<ll> prime_sieve(int *p, ll n){
+	p[0] = p[1] = 0;
+	p[2] = 1;
+	vector<ll> primes;
+	primes.push_back(2);
+	//mark all the odd numbers as prime initially
+	for(ll i = 3; i < n; i+=2){
 		p[i] = 1;
-	} 
+	}
 
-	//main sieve code
-	for(ll i = 3; i <= 1000000; i++){
+	//optimisation -> run only through the odd numbers
+	for(ll i = 3; i < n; i+=2){
 		if(p[i]){
-			// marks all the multiples of i as not prime. 
-			for(ll j = i*i; j <= 1000000; j += i){
+			primes.push_back(i);
+			for(ll j = i*i; j < n; j+= i){
 				p[j] = 0;
 			}
 		}
 	}
+	return primes;
 
-	// base cases
-	p[2] = 1;
-	p[1] = p[0] = 0;
 }
 
 int main(){
 	int n;
 	cin >> n;
 
-	int sieve[1000005] = {0};
-	prime_sieve(sieve);
+	ll N = 100005;
+	int p[N] = {0};
+	vector<ll> primes = prime_sieve(p, 100000);
 
 	for(int i = 0; i<= n; i++){
-		if(sieve[i])
-			cout << i << " ";
+		if(primes[i] > n)
+			break;
+		cout << primes[i] << " ";
 	}
 
 }

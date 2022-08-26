@@ -1,4 +1,4 @@
-
+// calculative modular multiplicative inverse using fermat's little theorem in O(logm) time. 
 
 #include<bits/stdc++.h>
 
@@ -20,37 +20,30 @@ using namespace std;
 
 ll gcd(ll a, ll b){ return b == 0 ? a : gcd(b, a%b); }
 
-ll x, y, GCD;
+ll modularInverse(ll a, ll m){
+	if(gcd(a, m) != 1)
+		return -1;
 
-void extendedEuclid(ll a, ll b){
-	//base case
-	if(b == 0){
-		x = 1;
-		y = 0;
-		GCD = a;
-		return;
+	ll res = 1, b = m - 2;
+
+	while(b > 0){
+		if(b&1){
+			res = (res*a) % m;
+		}
+		a = (a*a) % m;
+		b = b >> 1;
 	}
-
-	extendedEuclid(b, a%b);
-
-	ll cx, cy;
-	cx = y;
-	cy = x - (a/b)*y;
-	x = cx;
-	y = cy;
-}
-
-void inverseModulo(ll a, ll m){
-	if(gcd(a,m) == 1){
-		extendedEuclid(a, m);
-	}
-	else
-		x = 0;
+	return res;
 }
 
 int main(){
-	ll a, m;
-	cin >> a >> m;
-	inverseModulo(a,m);
-	print((x + m) % m); // to make it positive
+	int t;
+	cin >> t;
+	while(t--){
+		int a, b, m;
+		cin >> a >> m;
+
+		b = modularInverse(a, m);
+		print(b);
+	}
 }

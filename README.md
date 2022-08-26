@@ -102,6 +102,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1244/C | [The Football Season](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/2000/1244C.cpp) | Number Theory |
+| 803/F | [CoPrime Sequence](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/2000/803F.md) | Number Theory |
 
 ## LeetCode
 | Name | Difficulty    |   Topic Tags    |

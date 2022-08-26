@@ -132,6 +132,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [SUMSUMS](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/SUMSUMS.cpp) | Hard | Matrix Exp |
 | [MARBLES](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/MARBLES.cpp) | Medium | Combinatorics |
 | [PRIME1](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/PRIME1.cpp) | Medium | Segmented Sieve |
+| [DCEPC11B - Boring Factorials](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/DCEPC11B.md) | Medium | Number Theory |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

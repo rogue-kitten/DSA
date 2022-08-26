@@ -146,6 +146,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [XOREQUAL](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/XOREQUAL.cpp) | 1403 | Bit Manipulation |
 | [DIVSUBS](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/DIVSUBS.md) | 2392 | Pigeonhole, prefix sum |
 | [GRAYSC](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/GRAYSC.md) | 1910 | Pigeonhole |
+| [GCDQ](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/GCDQ.cpp) | 1674 | Number Theory |
 
 
 # Key Notes

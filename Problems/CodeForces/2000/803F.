@@ -1,0 +1,92 @@
+Link to the problem -> https://codeforces.com/problemset/problem/803/F
+
+## Approach
+```
+1. The total number of non empty subsequence are given as 2^n - 1. 
+2. To find the co prime subsequence, we find the total no of subsequences, 
+   then we use incl excl principle to find the no of subsequences div by 2, 3, 5, 6 ....
+   and then we substract this from the total to get the co prime subsequence. 
+3. the sign of which one to add and which one to substract comes from the mobius function.
+   [the one with non square odd pfs get's substracted and the one with even pfs gets added 
+   which is similar to the value on the mobius table]
+ ```
+ 
+ ## Code
+ ```cpp
+ #include<bits/stdc++.h>
+
+using namespace std;
+#define ll long long
+#define ull unsigned long long
+#define mod 1000000007
+#define vi vector<int>
+#define vll vector<long long>
+#define vull vector<unsigned long long>
+#define vvi vector<vector<int>>
+#define umii unordered_map<int, int>
+#define umivi unordered_map<int, vector<int>>
+#define printall(a) for(auto i : a) cout << i << " "
+#define print(a) cout << a << endl
+#define pb push_back
+#define maxHeap  priority_queue<int>
+#define minHeap  priority_queue<int, vector<int>, greater<int> >
+
+ll gcd(ll a, ll b){ return b == 0 ? a : gcd(b, a%b); }
+
+const ll N = 100005;
+vll arr(N, 1), prime_count(N, 0);
+vll freq(N, 0);
+vll p2(N, 0);
+
+void mobius(){
+	ll i, j;
+	for(i = 2; i < N; i++){
+		if(prime_count[i]) // not a prime no. 
+			continue;
+		for(j = i; j < N; j += i){
+			prime_count[j]++;
+			arr[j] *= i;
+		}
+	}
+
+	for(int i = 1; i < N; i++){
+		if(arr[i] == i){
+			if(prime_count[i]&1)
+				arr[i] = -1;
+			else
+				arr[i] = 1;
+		}
+		else
+			arr[i] = 0;
+	}
+}
+
+int main(){
+	mobius();
+	int n;
+	cin >> n;
+	vll b(n);
+	for(ll i = 0; i <n; i++){
+		cin >> b[i];
+		freq[b[i]]++;
+	}
+	p2[0] = 1;
+	for(int i = 1; i < N; i++){
+		p2[i] = (p2[i-1]*2) % mod;
+	}
+	// total no of subsequences => 2^n - 1. we can do modular exp to find this out. 
+	ll ans = 0;
+	for(ll i = 1; i < N; i++){
+		ll count = 0;
+		for(ll j = i; j < N; j += i){
+			count += freq[j];
+		}
+
+		ll total = p2[count] - 1;
+		ans = (ans + arr[i]*total) % mod;
+	}
+
+	ans += mod;
+	print(ans % mod);
+}
+```

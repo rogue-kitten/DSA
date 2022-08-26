@@ -18,14 +18,27 @@ using namespace std;
 
 ll gcd(ll a, ll b){ return b == 0 ? a : gcd(b, a%b); }
 
+ll modularMultiplication(ll a, ll b, ll m){
+	ll res = 0;
+	while(b > 0){
+		if(b&1ll)
+			res += a;
+		a *= 2;
+		b = b >> 1;
+		res %= m;
+		a %= m;
+	}
+	return res;
+}
+
 ll FastModularExp(ll a, ll b, ll m){
-	ll res = 1;
+	ll res = 1ll;
 
 	while(b > 0){
-		if(b&1){
-			res = (res*a) % m;
+		if(b&1ll){
+			res = modularMultiplication(res, a, m);
 		}
-		a = (a*a) % m;
+		a = modularMultiplication(a, a, m);
 		b = b >> 1;
 	}
 	return res;

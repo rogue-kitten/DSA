@@ -1,7 +1,7 @@
 # Primality Test [Miller Rabin] for No's less than 10^18
 
-![IMG_3939](https://user-images.githubusercontent.com/110938199/186918883-b9558447-2743-454e-9984-a359fb03f388.jpeg)
-![IMG_3940](https://user-images.githubusercontent.com/110938199/186918942-3ecf685f-184b-4765-a8d8-01fc0370f594.jpeg)
+![IMG_3939](https://github.com/RougeKitten/DSA/blob/main/images/IMG_3939.jpeg?raw=true)
+![IMG_3940](https://github.com/RougeKitten/DSA/blob/main/images/IMG_3940.jpeg?raw=true)
 
 
 

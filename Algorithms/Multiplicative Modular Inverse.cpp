@@ -1,4 +1,4 @@
-// calculative modular multiplicative inverse using fermat's little theorem in O(logm) time. 
+// calculative modular multiplicative inverse using extended eucledian algorithm. 
 
 #include<bits/stdc++.h>
 
@@ -21,20 +21,24 @@ using namespace std;
 ll gcd(ll a, ll b){ return b == 0 ? a : gcd(b, a%b); }
 
 ll modularInverse(ll a, ll m){
-	if(gcd(a, m) != 1)
-		return -1;
+	if(m == 1)
+		return 0;
+	ll m0 = m, y = 0, x = 1;
 
-	ll res = 1, b = m - 2;
-
-	while(b > 0){
-		if(b&1){
-			res = (res*a) % m;
-		}
-		a = (a*a) % m;
-		b = b >> 1;
+	while(a  > 1){
+		ll q = a / m, t = m;
+		m = a % m, a = t;
+		t = y;
+		y = x - q*y;
+		x = t;
 	}
-	return res;
+
+	if(x < 0)
+		x += m0;
+
+	return x;
 }
+
 
 int main(){
 	int t;

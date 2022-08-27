@@ -16,6 +16,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
     * [1300](https://github.com/RougeKitten/DSA#1300-rating)  
     * [1400](https://github.com/RougeKitten/DSA#1400-rating)
     * [1600](https://github.com/RougeKitten/DSA#1600-rating)
+    * [1700](https://github.com/RougeKitten/DSA#1700-rating)
     * [2000](https://github.com/RougeKitten/DSA#2000-rating)
   - [LeetCode](https://github.com/RougeKitten/DSA#leetcode)
   - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)
@@ -95,6 +96,12 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1151/B | [Dima and a Bad Xor](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1151B.md) | Bit Manipulation, Greedy |
 | 1225/C | [p-binary](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1225C.md) | Bit Manipulation, Greedy |
 | 1342/C | [Yet Another Counting Problem](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1342C.cpp) | Number Theory |
+
+### 1700 Rating
+
+| Problem ID | Name    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| 630/I | [Parking Lot](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1700/630I.md) | Combinatorics |
 
 
 ### 2000 Rating

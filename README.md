@@ -162,6 +162,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [DIVSUBS](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/DIVSUBS.md) | 2392 | Pigeonhole, prefix sum |
 | [GRAYSC](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/GRAYSC.md) | 1910 | Pigeonhole |
 | [GCDQ](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/GCDQ.cpp) | 1674 | Number Theory |
+| [GCDMOD](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/GCDMOD.cpp) | 1741 | Number Theory |
 
 
 # Key Notes

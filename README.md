@@ -142,6 +142,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [DCEPC11B - Boring Factorials](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/DCEPC11B.md) | Medium | Number Theory |
 | [TDKPRIME](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/TDKPRIME.cpp) | Easy | Number Theory |
 | [AMR11E - Distinct Primes](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/AMR11E.cpp) | Easy | Number Theory |
+| [LASTDIG](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/LASTDIG.cpp) | Easy | Number Theory |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

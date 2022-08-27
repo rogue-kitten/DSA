@@ -11,6 +11,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
   - [Code Forces](https://github.com/RougeKitten/DSA#code-forces)
     * [800](https://github.com/RougeKitten/DSA#800-rating)  
     * [900](https://github.com/RougeKitten/DSA#900-rating)  
+    * [1000](https://github.com/RougeKitten/DSA#1000-rating)  
     * [1100](https://github.com/RougeKitten/DSA#1100-rating)  
     * [1200](https://github.com/RougeKitten/DSA#1200-rating)  
     * [1300](https://github.com/RougeKitten/DSA#1300-rating)  
@@ -53,6 +54,12 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |  Topic Tags    |
 | :-------- | :------- | :------- |
 | 26/A | [Almost Primes](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/900/26A.cpp) | Number Theory |
+
+### 1000 Rating
+
+| Problem ID | Name    |  Topic Tags    |
+| :-------- | :------- | :------- |
+| 742/A| [Arpa’s hard exam and Mehrdad’s naive cheat](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/900/742A.cpp) | Number Theory |
 
 ### 1100 Rating
 

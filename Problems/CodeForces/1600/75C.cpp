@@ -23,71 +23,101 @@ using namespace std;
 
 ll gcd(ll a, ll b){ return b == 0 ? a : gcd(b, a%b); }
 
-
-vll get_divisors(ll n){
+vll get_divisors(ll a){
 	vll ans;
-
-	for(ll i = 1; i*i <= n; i++){
-		if(n%i == 0){
-			ans.push_back(i);
-			if(i*i != n){
-				ans.push_back(n/i);
-			}
+	for(int i = 1; i*i <= a; ++i){
+		if(a%i == 0){
+			ans.pb(i);
+			if(i*i != a)
+				ans.pb(a/i);
 		}
 	}
 	return ans;
 }
 
+ll get_lowerBound(int n, vll &temp){
+	ll s = 0, e = temp.size() - 1, m;
+	ll ans = -1;
+	while(s <= e){
+		m = s +(e-s)/2;
 
-int main(){
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
-	ll a,b;
-	cin >> a >> b;
-	int q;
-	cin >> q;
-	ll x = min(a,b), y = max(a,b);
-	ll g = gcd(a,b);
-	vll divisors = get_divisors(x);
+		if(temp[m] <= n){
+			ans = temp[m];
+			s = m + 1;
+		}
+		else
+			e = m - 1;
+
+	}
+	return ans;
+}
+
+ll get_upperBound(int n, vll &temp){
+	ll s = 0, e = temp.size() - 1, m;
+	ll ans = -1;
+	while(s <= e){
+		m = s +(e-s)/2;
+
+		if(temp[m] >= n){
+			ans = temp[m];
+			e = m - 1;
+		}
+		else
+			s = m + 1;
+
+	}
+	return ans;
+}
+
+void query(vll &temp, ll g){
+	ll l, r;
+	cin >> l >> r;
+
+	if(l > g){
+		print(-1);
+		return;
+	}
+
+	if(l <= g && r > g){
+		print(g);
+		return;
+	}
+
+	ll x = get_upperBound(l, temp);
+	ll y = get_lowerBound(r, temp);
+
+	if(y >= l && y <= r){
+		print(y);
+		return;
+	}
+	print(-1);
+}
+
+void solve(){
+	ll a, b, q;
+	cin >> a >> b >> q;
+
+	int g = gcd(a, b);
+
+	vll divisors = get_divisors(a);
 
 	vll temp;
-	for(auto d : divisors){
-		if(y%d == 0)
-			temp.pb(d);
+
+	for(auto x : divisors){
+		if(b%x == 0)
+			temp.push_back(x);
 	}
 
 	sort(temp.begin(), temp.end());
 
-
 	while(q--){
-		ll l, r;
-		cin >> l >> r;
-
-		if(l > g){
-			print(-1);
-			continue;
-		}
-
-		if(l <= g && r > g){
-			print(g);
-			continue;
-		}
-
-		ll s = 0, e = temp.size() - 1, m;
-		ll ans = -1;
-		while(s <= e){
-			m = s + (e - s)/2;
-
-			if(temp[m] >= l && temp[m] <= r){
-				ans = max(ans, temp[m]);
-				s = m + 1;
-			}
-			else if(temp[m] < l)
-				s = m + 1;
-			else
-				e = m - 1;
-		}
-		print(ans);
-
+		query(temp, g);
 	}
+
+}
+
+int main(){
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	solve();
 }

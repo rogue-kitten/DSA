@@ -153,6 +153,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [AMR11E - Distinct Primes](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/AMR11E.cpp) | Easy | Number Theory |
 | [LASTDIG](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/LASTDIG.cpp) | Easy | Number Theory |
 | [DCEPCA03 - Totient Extreme](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/DCEPCA03.cpp) | Medium | Number Theory |
+| [LCMSUM](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/LCMSUM.md) | Hard | Number Theory |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

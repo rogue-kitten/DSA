@@ -23,6 +23,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
   - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)
   - [SPOJ](https://github.com/RougeKitten/DSA#spoj)
   - [Code Chef](https://github.com/RougeKitten/DSA#code-chef)
+  - [UVa Online Judge](https://github.com/RougeKitten/DSA#uva-online-judge)
 - [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   
@@ -171,6 +172,11 @@ Click on the link to access the solution along with the code. I am still in the 
 | [GCDMOD](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/GCDMOD.cpp) | 1741 | Number Theory |
 | [QNUMBER](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/QNUMBER.cpp) | 2026 | Number Theory |
 
+
+## UVa Online Judge
+| Problem ID | Name    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| 1230 | [MODEX](https://github.com/RougeKitten/DSA/blob/main/Problems/UVa%20Online%20Judge/1230.cpp) | Number Theory |
 
 # Key Notes
 

@@ -33,7 +33,7 @@ ll modularMultiplication(ll a, ll b, ll m){
 
 ll FastModularExp(ll a, ll b, ll m){
 	ll res = 1ll;
-
+	a %= m;
 	while(b > 0){
 		if(b&1ll){
 			res = modularMultiplication(res, a, m);

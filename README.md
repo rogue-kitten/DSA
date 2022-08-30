@@ -62,6 +62,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |  Topic Tags    |
 | :-------- | :------- | :------- |
 | 742/A| [Arpa’s hard exam and Mehrdad’s naive cheat](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1000/742A.cpp) | Number Theory |
+| 1721/B| [Deadly Laser](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1000/1721B.cpp) | Implementation |
 
 ### 1100 Rating
 

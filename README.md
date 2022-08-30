@@ -49,6 +49,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 723/A | [The New Year: Meeting Friends](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/723A.cpp) | Implementation |
 | 1712/A | [Wonderful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712A.cpp) | Implementation |
 | 1712/B | [Woeful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712B.cpp) | Number Theory |
+| 1721/A | [Image](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1721A.cpp) | Implementation |
 
 ### 900 Rating
 

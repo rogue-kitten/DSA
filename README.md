@@ -18,6 +18,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
     * [1400](https://github.com/RougeKitten/DSA#1400-rating)
     * [1600](https://github.com/RougeKitten/DSA#1600-rating)
     * [1700](https://github.com/RougeKitten/DSA#1700-rating)
+    * [1800](https://github.com/RougeKitten/DSA#1800-rating)
     * [2000](https://github.com/RougeKitten/DSA#2000-rating)
   - [LeetCode](https://github.com/RougeKitten/DSA#leetcode)
   - [GeeksForGeeks](https://github.com/RougeKitten/DSA#geeksforgeeks)
@@ -116,6 +117,11 @@ Click on the link to access the solution along with the code. I am still in the 
 | :-------- | :------- | :-------        |
 | 630/I | [Parking Lot](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1700/630I.md) | Combinatorics |
 
+### 1800 Rating
+
+| Problem ID | Name    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| 1721/D| [Maximum AND](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1800/1721D.cpp) | Bitmanipulation, Greedy |
 
 ### 2000 Rating
 

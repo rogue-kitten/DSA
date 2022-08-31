@@ -19,7 +19,6 @@ using namespace std;
 #define printall(a) for(auto i : a) cout << i << " "
 #define print(a) cout << a << '\n'
 
-#define mp make_pair
 #define pii pair<int, int>
 #define pll pair<ll, ll>
 #define vpii vector<pii>
@@ -54,61 +53,99 @@ void shift_solution(ll &x, ll &y, ll a, ll b, ll cnt) {
 }
 
 void solve() {
-	ll a, b, c, x, y, g;
-	cin >> a >> b >> c;
+	ll a, b, c, x, y, g, x1, x2, y1, y2;
+	cin >> a >> b >> c >> x1 >> x2 >> y1 >> y2;
 	// degenerate case
 	if (a == 0 && b == 0) {
 		if (c == 0) {
-			print("YES");
+			print((x2 - x1 + 1) * (y2 - y1 + 1));
 			return;
 		}
-		print("NO");
+		print(0);
 		return;
 	}
 
-	g = gcd(a, b, x, y);
+	c = -c;
+	// zero case
+	if (a == 0) {
+		if (c % b) {
+			print(0);
+			return;
+		}
+
+		y = c / b;
+		if (y >= y1 && y <= y2) {
+			print(1);
+			return;
+		}
+		print(0);
+	}
+	if (b == 0) {
+		if (c % a) {
+			print(0);
+			return;
+		}
+
+		x = c / a;
+		if (x >= x1 && x <= x2) {
+			print(0);
+			return;
+		}
+		print(0);
+	}
+	g = gcd(abs(a), abs(b), x, y);
 
 	if (c % g) {
-		print("NO");
+		print(0);
 		return;
 	}
 
 	x *= c / g;
 	y *= c / g;
 
+	if (a < 0)
+		x = -x;
+	if (b < 0)
+		y = -y;
+
 	a /= g;
 	b /= g;
 
-	ll minx = 0, miny = 0, maxx = c / a, maxy = c / b;
+	int sign_a = a < 0 ? -1 : 1;
+	int sign_b = b < 0 ? -1 : 1;
 	// print(maxx);
 	// print(maxy);
-	shift_solution(x, y, a, b, (minx - x) / b);
-	if (x < minx)
-		shift_solution(x, y, a, b , 1);
-	if (x > maxx) {
-		print("NO");
+	shift_solution(x, y, a, b, (x1 - x) / b);
+	if (x < x1)
+		shift_solution(x, y, a, b , sign_b);
+	if (x > x2) {
+		print(0);
 		return;
 	}
 	ll lx1 = x;
+	// print(x);
 
-	shift_solution(x, y, a, b, (maxx - x) / b);
-	if (x > maxx)
-		shift_solution(x, y, a, b , -1);
+	shift_solution(x, y, a, b, (x2 - x) / b);
+	if (x > x2)
+		shift_solution(x, y, a, b , -sign_b);
 	ll rx1 = x;
+	// print(x);
 
-	shift_solution(x, y, a, b, -(miny - y) / a);
-	if (y < miny)
-		shift_solution(x, y, a, b, -1);
-	if (y > maxy) {
-		print("NO");
+	shift_solution(x, y, a, b, -(y1 - y) / a);
+	if (y < y1)
+		shift_solution(x, y, a, b, -sign_a);
+	if (y > y2) {
+		print(0);
 		return;
 	}
 	ll lx2 = x;
+	// print(x);
 
-	shift_solution(x, y, a, b, -(maxy - y) / a);
-	if (y > maxy)
-		shift_solution(x, y, a, b, 1);
+	shift_solution(x, y, a, b, -(y2 - y) / a);
+	if (y > y2)
+		shift_solution(x, y, a, b, sign_a);
 	ll rx2 = x;
+	// print(x);
 
 	if (lx2 > rx2)
 		swap(lx2, rx2);
@@ -117,13 +154,16 @@ void solve() {
 	ll rx = min(rx1, rx2);
 
 	if (lx > rx) {
-		print("NO");
+		print(0);
 		return;
 	}
 
-	print("YES");
+	print((rx - lx) / abs(b) + 1);
 
 }
+
+
+
 
 int main() {
 	ios_base::sync_with_stdio(false);

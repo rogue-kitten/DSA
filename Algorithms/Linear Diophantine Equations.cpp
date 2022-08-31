@@ -34,6 +34,8 @@ using namespace std;
 #define rfoll(i, n) for(ll i = n; i >= 0; i--)
 #define foa(i, a, b) for(int i = a; i < b; i++)
 
+#define print_case(i, x) cout << "Case " << i << ": " << x << '\n';
+
 ll gcd(ll a, ll b, ll& x, ll& y) {
 	if (b == 0) {
 		x = 1;
@@ -52,51 +54,57 @@ void shift_solution(ll &x, ll &y, ll a, ll b, ll cnt) {
 	y -= cnt * a;
 }
 
-void solve() {
+void solve(int i) {
 	ll a, b, c, x, y, g, x1, x2, y1, y2;
 	cin >> a >> b >> c >> x1 >> x2 >> y1 >> y2;
 	// degenerate case
 	if (a == 0 && b == 0) {
 		if (c == 0) {
-			print((x2 - x1 + 1) * (y2 - y1 + 1));
+			print_case(i, (x2 - x1 + 1) * (y2 - y1 + 1));
 			return;
 		}
-		print(0);
-		return;
+		else {
+			print_case(i, 0);
+			return;
+		}
 	}
 
 	c = -c;
 	// zero case
 	if (a == 0) {
+		// print("ENTER");
 		if (c % b) {
-			print(0);
+			print_case(i, 0);
 			return;
 		}
 
 		y = c / b;
 		if (y >= y1 && y <= y2) {
-			print(1);
+			print_case(i, x2 - x1 + 1);
 			return;
 		}
-		print(0);
+		print_case(i, 0);
+		return;
 	}
 	if (b == 0) {
 		if (c % a) {
-			print(0);
+			print_case(i, 0);
 			return;
 		}
 
 		x = c / a;
 		if (x >= x1 && x <= x2) {
-			print(0);
+			print_case(i, y2 - y1 + 1);
 			return;
 		}
-		print(0);
+		print_case(i, 0);
+		return;
 	}
+
 	g = gcd(abs(a), abs(b), x, y);
 
 	if (c % g) {
-		print(0);
+		print_case(i, 0);
 		return;
 	}
 
@@ -119,7 +127,7 @@ void solve() {
 	if (x < x1)
 		shift_solution(x, y, a, b , sign_b);
 	if (x > x2) {
-		print(0);
+		print_case(i, 0);
 		return;
 	}
 	ll lx1 = x;
@@ -135,7 +143,7 @@ void solve() {
 	if (y < y1)
 		shift_solution(x, y, a, b, -sign_a);
 	if (y > y2) {
-		print(0);
+		print_case(i, 0);
 		return;
 	}
 	ll lx2 = x;
@@ -154,24 +162,21 @@ void solve() {
 	ll rx = min(rx1, rx2);
 
 	if (lx > rx) {
-		print(0);
+		print_case(i, 0);
 		return;
 	}
 
-	print((rx - lx) / abs(b) + 1);
+	print_case(i, (rx - lx) / abs(b) + 1);
 
 }
-
-
-
 
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
 	int t = 1;
-	// cin >> t;
-	while (t--) {
-		solve();
+	cin >> t;
+	fo(i , t) {
+		solve(i + 1);
 	}
 }

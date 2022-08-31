@@ -73,6 +73,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1594/B | [Special Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/1594B.cpp) | Bit Manipulation |
 | 1712/C | [Sort Zeros](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/1712C.cpp) | Bit Manipulation |
 | 535/B | [Tavas and SaDDas](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/535B.cpp) | Bit Manipulation, Combinatorics |
+| 633/A | [Ebony and Ivory](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/633A.cpp) | Number Theory |
 
 ### 1200 Rating
 

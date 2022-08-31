@@ -168,6 +168,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [GCDX](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/GCDX.cpp) | Medium | Number Theory |
 | [PON](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/PON.cpp) | Medium | Number Theory |
 | [ZSUM](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/ZSUM.cpp) | Medium | Number Theory |
+| [CEQU](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/CEQU.cpp) | Easy | Number Theory |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

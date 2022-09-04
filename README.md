@@ -183,6 +183,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [CEQU](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/CEQU.cpp) | Easy | Number Theory |
 | [ANARC09C](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/ANARC09C.cpp) | Easy | Number Theory |
 | [CPRIME](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/CPRIME.cpp) | Easy | Number Theory |
+| [CSQUARE](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/CSQUARE.cpp) | Easy | Number Theory |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

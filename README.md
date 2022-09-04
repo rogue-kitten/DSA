@@ -16,6 +16,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
     * [1200](https://github.com/RougeKitten/DSA#1200-rating)  
     * [1300](https://github.com/RougeKitten/DSA#1300-rating)  
     * [1400](https://github.com/RougeKitten/DSA#1400-rating)
+    * [1500](https://github.com/RougeKitten/DSA#1500-rating)
     * [1600](https://github.com/RougeKitten/DSA#1600-rating)
     * [1700](https://github.com/RougeKitten/DSA#1700-rating)
     * [1800](https://github.com/RougeKitten/DSA#1800-rating)
@@ -51,6 +52,9 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1712/A | [Wonderful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712A.cpp) | Implementation |
 | 1712/B | [Woeful Permutations](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1712B.cpp) | Number Theory |
 | 1721/A | [Image](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1721A.cpp) | Implementation |
+| 1722/A | [Spell Check](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1722A.cpp) | Implementation |
+| 1722/B | [Colour blindness](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1722B.cpp) | Implementation |
+| 1722/C | [Word Game](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1722C.cpp) | Implementation |
 
 ### 900 Rating
 
@@ -74,6 +78,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1712/C | [Sort Zeros](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/1712C.cpp) | Bit Manipulation |
 | 535/B | [Tavas and SaDDas](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/535B.cpp) | Bit Manipulation, Combinatorics |
 | 633/A | [Ebony and Ivory](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/633A.cpp) | Number Theory |
+| 1722/D | [Line](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1100/633A.cpp) | Sorting |
 
 ### 1200 Rating
 
@@ -102,6 +107,12 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1721/C | [Min-Max Array Transformation](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1721C.cpp) | Two Pointers |
 
 
+### 1500 Rating
+
+| Problem ID | Name    |   Topic Tags    |
+| :-------- | :------- | :-------        |
+| 1722/G | [Even Odd Xor](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1500/1722G.cpp) | Bitmasks |
+
 ### 1600 Rating
 
 | Problem ID | Name    |   Topic Tags    |
@@ -111,6 +122,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1342/C | [Yet Another Counting Problem](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1342C.cpp) | Number Theory |
 | 75/C | [Modified GCD](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/75C.cpp) | Number Theory, Binary Search |
 | 1025/B | [Weakened Common Divisor](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1025B.md) | Number Theory |
+| 1722/E | [Counting Rectangles](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1722E.cpp) | Prefix Sum |
 
 ### 1700 Rating
 

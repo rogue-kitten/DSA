@@ -1,3 +1,5 @@
+// (basically a combination of lucas theorem and crt)
+
 #include<bits/stdc++.h>
 
 using namespace std;

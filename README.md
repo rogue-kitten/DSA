@@ -186,6 +186,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [CSQUARE](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/CSQUARE.cpp) | Easy | Number Theory |
 | [NFACTOR](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/NFACTOR.cpp) | Medium | Number Theory |
 | [CUBEFR](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/CUBEFR.cpp) | Easy | Number Theory |
+| [DCEPC13D](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/DCEPC13D.cpp) | Hard | Number Theory |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

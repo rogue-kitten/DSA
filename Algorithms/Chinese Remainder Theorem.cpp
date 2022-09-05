@@ -48,7 +48,7 @@ ll crt(vi &nums, vi &rem, int k){
 		ll ppi = prod/nums[i];
 		ans += (rem[i]*ppi*modularInverse(ppi, nums[i])) % prod;
 	}
-	return ans;
+	return (ans + prod) % prod;
 }
 
 int main(){

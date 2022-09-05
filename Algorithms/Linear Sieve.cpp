@@ -52,7 +52,7 @@ void linearSieve() {
 		if (!is_composite[i]) // if it is a prime number
 			primes.pb(i);
 		
-		for (int j = 0; j < primes.size() && i * primes[j] < N; j++) {
+		for (int j = 0; j < primes.size() && i * primes[j] < N; j++) { //this loop runs for all numbers, prime and composite
 			is_composite[i * primes[j]] = true;
 			if (i % primes[j] == 0) //if p divides i, it should be the smallest prime that does that.
 				break;

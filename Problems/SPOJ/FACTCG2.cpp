@@ -1,0 +1,85 @@
+// link to the problem -> https://www.spoj.com/problems/FACTCG2/
+
+#include<bits/stdc++.h>
+
+using namespace std;
+#define ll long long
+#define ull unsigned long long
+#define mod 1000000007
+#define vi vector<int>
+#define vll vector<long long>
+#define vs vector<string>
+#define vb vector<bool>
+
+#define vvi vector<vector<int>>
+#define vvll vector<vector<long long>>
+#define vvs vector<vector<string>>
+
+#define umii unordered_map<int, int>
+#define umivi unordered_map<int, vector<int>>
+
+#define printall(a) for(auto i : a) cout << i << " "
+#define print(a) cout << a << '\n'
+
+#define pii pair<int, int>
+#define pll pair<ll, ll>
+#define vpii vector<pii>
+#define vpll vector<pll>
+
+#define pb push_back
+#define maxHeap  priority_queue<ll>
+#define minHeap  priority_queue<int, vector<int>, greater<int> >
+
+#define fo(i, n) for(int i = 0; i < n; i++)
+#define rfo(i, n) for(int i = n; i >= 0; i--)
+#define foll(i, n) for(ll i = 0; i < n; i++)
+#define rfoll(i, n) for(ll i = n; i >= 0; i--)
+#define foa(i, a, b) for(int i = a; i < b; i++)
+
+#define print_case(i, x) cout << "Case " << i << ": " << x << '\n';
+
+const int N = 1e7 + 1;
+bool sieve[N] = {0};
+vi primes;
+
+void prime_sieve() {
+	primes.pb(2);
+	for (int i = 3; i < N; i += 2) {
+		sieve[i] = true;
+	}
+
+	for (ll i = 3; i < N; i += 2) {
+		if (sieve[i]) {
+			primes.pb(i);
+			for (ll j = i * i; j < N; j += i) {
+				sieve[j] = false;
+			}
+		}
+	}
+}
+#define multPrint(x) cout << " x " << x;
+void solve(int n) {
+	cout << 1;
+	for (auto x : primes) {
+		if (x * x > n)
+			break;
+		while (n % x == 0) {
+			multPrint(x);
+			n /= x;
+		}
+	}
+	if (n != 1) {
+		multPrint(n);
+	}
+	cout << '\n';
+}
+
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	prime_sieve();
+	int n;
+	while (scanf("%d", &n) != EOF) {
+		solve(n);
+	}
+}

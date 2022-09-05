@@ -189,6 +189,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [DCEPC13D](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/DCEPC13D.cpp) | Hard | Number Theory |
 | [AMR10C](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/AMR10C.cpp) | Medium | Number Theory |
 | [FACTCG2](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FACTCG2.cpp) | Medium | Number Theory |
+| [FACTMUL](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FACTMUL.cpp) | Medium | Number Theory |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

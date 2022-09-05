@@ -1,4 +1,5 @@
 // (basically a combination of lucas theorem and crt)
+// use this if it is possible to break down m into smaller parts, since it is kinda expensive to do this algo. 
 
 #include<bits/stdc++.h>
 

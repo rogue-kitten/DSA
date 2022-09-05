@@ -192,6 +192,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [FACTMUL](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FACTMUL.cpp) | Medium | Number Theory |
 | [FINDPRM](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/FINDPRM.cpp) | Medium | Number Theory |
 | [GCD2](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/GCD2.cpp) | Easy | Number Theory |
+| [DIVSUM](https://github.com/RougeKitten/DSA/blob/main/Problems/SPOJ/DIVSUM.cpp) | Medium | Number Theory |
 
 ## Code Chef
 | Name | Rating    |   Topic Tags    |

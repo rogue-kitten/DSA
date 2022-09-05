@@ -202,6 +202,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | [GCDMOD](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/GCDMOD.cpp) | 1741 | Number Theory |
 | [QNUMBER](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/QNUMBER.cpp) | 2026 | Number Theory |
 | [COPR16G](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/COPR16G.cpp) |  | Number Theory |
+| [SPOTWO](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/SPOTWO.cpp) | 1583 | Number Theory |
 
 
 ## UVa Online Judge

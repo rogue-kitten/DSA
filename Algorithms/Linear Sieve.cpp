@@ -1,6 +1,7 @@
 // normal sieve generates primes with complexity O(nloglogn), linear sieve does the same job in O(n). 
 // Why is this linear? because we visit every number only once in this.
 // refer handnotes for more info about this. 
+
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -48,13 +49,13 @@ vector<int> primes;
 void linearSieve() {
 	fill(is_composite, is_composite + N, false); //initialise the array as prime initially
 	for (int i = 2; i < N; i++) {
-		if (!is_composite[i]) { // if it is a prime number
+		if (!is_composite[i]) // if it is a prime number
 			primes.pb(i);
-			for (int j = 0; j < primes.size() && i * primes[j] < N; j++) {
-				is_composite[i * primes[j]] = true;
-				if (i % primes[j] == 0) //if p divides i, it should be the smallest prime that does that.
-					break;
-			}
+		
+		for (int j = 0; j < primes.size() && i * primes[j] < N; j++) {
+			is_composite[i * primes[j]] = true;
+			if (i % primes[j] == 0) //if p divides i, it should be the smallest prime that does that.
+				break;
 		}
 	}
 }

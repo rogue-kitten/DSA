@@ -151,6 +151,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 260. [Single Number III](https://github.com/RougeKitten/DSA/blob/main/Bit%20Manipulation/5.%20Unique%20Number%20II.md) | Medium | Bit Manipulation |
 | 239. [Sliding Window Maximum](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/239.cpp) | Hard | Monotonic Queue |
 | 974. [Subarray Sums Divisible by K](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/974.md) | Medium | Modulo, Prefix Sum, Pigeon Hole |
+| 153. [Find Minimum in Rotated Sorted Array](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/153.cpp) | Medium | Binary Search |
 
 ## GeeksForGeeks
 | Name | Difficulty    |   Topic Tags    |

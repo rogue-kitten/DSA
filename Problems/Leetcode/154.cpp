@@ -1,4 +1,6 @@
 // link to the problem -> https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+// similar to the part one of this problem, just adding the while statement before to check. 
+// In the worst case, the code runs in O(n), avg case O(logn)
 
 class Solution {
 public:

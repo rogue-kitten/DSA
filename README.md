@@ -153,6 +153,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 974. [Subarray Sums Divisible by K](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/974.md) | Medium | Modulo, Prefix Sum, Pigeon Hole |
 | 153. [Find Minimum in Rotated Sorted Array](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/153.cpp) | Medium | Binary Search |
 | 154. [Find Minimum in Rotated Sorted Array II ](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/154.cpp) | Hard | Binary Search |
+| 852. [Peak Index in a Mountain Array ](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/852.cpp) | Medium | Binary Search |
 
 ## GeeksForGeeks
 | Name | Difficulty    |   Topic Tags    |

@@ -155,6 +155,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 154. [Find Minimum in Rotated Sorted Array II ](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/154.cpp) | Hard | Binary Search |
 | 852. [Peak Index in a Mountain Array ](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/852.cpp) | Medium | Binary Search |
 | 34. [Find First and Last Position of Element in Sorted Array](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/34.cpp) | Medium | Binary Search |
+| 33. [Search in Rotated and Sorted Array](https://github.com/RougeKitten/DSA/blob/main/Problems/Leetcode/33.cpp) | Medium | Binary Search |
 
 ## GeeksForGeeks
 | Name | Difficulty    |   Topic Tags    |

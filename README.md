@@ -216,6 +216,11 @@ Click on the link to access the solution along with the code. I am still in the 
 | [COPR16G](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/COPR16G.cpp) |  | Number Theory |
 | [SPOTWO](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/SPOTWO.cpp) | 1583 | Number Theory |
 | [BALLBOX](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/BALLBOX.cpp) | 994 | Maths |
+| [PERMCLEAR](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/PERMCLEAR.cpp) | 1308 | Implementation |
+| [MEANMEDIAN](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/MEANMEDIAN.cpp) | 1374 | Implementation |
+| [ORTUPLES](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/ORTUPLES.cpp) | 1704 | Implementation, Bit Manipulation |
+| [BALLSEQ](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/BALLSEQ.cpp) | 2374 | Implementation, Bit Manipulation |
+
 
 
 ## UVa Online Judge

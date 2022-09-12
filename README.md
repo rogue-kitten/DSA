@@ -90,6 +90,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1097/B | [Petr and a Combination Lock](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1097B.cpp) | Implementation |
 | 1520/D | [Same Differences](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1520D.cpp) | Implementation |
 | 1537/C | [Challenging Cliffs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1537C.cpp) | Implementation, Greedy |
+| 1541/B | [Pleasant Pairs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1541B.cpp) | IGreedy, Sorting |
 
 ### 1300 Rating
 

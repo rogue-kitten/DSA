@@ -55,6 +55,8 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1722/A | [Spell Check](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1722A.cpp) | Implementation |
 | 1722/B | [Colour blindness](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1722B.cpp) | Implementation |
 | 1722/C | [Word Game](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1722C.cpp) | Implementation |
+| 1728/A | [Coloured Balls: Revisited](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1728A.cpp) | Implementation |
+| 1728/B | [Best Permutation](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/800/1728B.cpp) | Implementation |
 
 ### 900 Rating
 
@@ -107,6 +109,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1095/C | [Powers of Two](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1095C.md) | Bit Manipulation, Greedy |
 | 1494/B | [Berland Crossword](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1494B.md) | Bit Manipulation, Greedy |
 | 1721/C | [Min-Max Array Transformation](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1721C.cpp) | Two Pointers |
+| 1728/C | [Digital Logarithm](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1400/1728C.cpp) | Greedy |
 
 
 ### 1500 Rating

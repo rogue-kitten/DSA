@@ -92,6 +92,7 @@ Click on the link to access the solution along with the code. I am still in the 
 | 1537/C | [Challenging Cliffs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1537C.cpp) | Implementation, Greedy |
 | 1541/B | [Pleasant Pairs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1541B.cpp) | Greedy, Sorting |
 | 1527/B1 | [Palindrome Game (Easy)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1527B1.cpp) | Greedy |
+| 1532/C | [Stable Groups](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1532C.cpp) | Greedy, Sorting |
 
 ### 1300 Rating
 

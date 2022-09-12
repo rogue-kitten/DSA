@@ -225,7 +225,12 @@ Click on the link to access the solution along with the code. I am still in the 
 | [MEANMEDIAN](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/MEANMEDIAN.cpp) | 1374 | Implementation |
 | [ORTUPLES](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/ORTUPLES.cpp) | 1704 | Implementation, Bit Manipulation |
 | [BALLSEQ](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/BALLSEQ.cpp) | 2374 | Implementation, Bit Manipulation |
-
+| [BOBBANK](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/BOBBANK.cpp) | 481 | Implementation |
+| [SPEEDTEST](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/SPEEDTEST.cpp) | 781 | Implementation |
+| [EQPAIR](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/EQPAIR.cpp) | 1248 | Implementation |
+| [SUBARRAY](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/SUBARRAY.cpp) | 1375 | Implementation |
+| [PBATTLE](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/PBATTLE.cpp) | 1739 | Sorting |
+| [DISTNUMS](https://github.com/RougeKitten/DSA/blob/main/Problems/Code%20Chef/DISTNUMS.cpp) | 2015 | Number Theory |
 
 
 ## UVa Online Judge

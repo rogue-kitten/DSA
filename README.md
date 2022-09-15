@@ -26,6 +26,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
   - [SPOJ](https://github.com/RougeKitten/DSA#spoj)
   - [Code Chef](https://github.com/RougeKitten/DSA#code-chef)
   - [UVa Online Judge](https://github.com/RougeKitten/DSA#uva-online-judge)
+  - [CSES Problem Set](https://github.com/RougeKitten/DSA#cses-problem-set
 - [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   
@@ -35,7 +36,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
 
 ## Code Forces
 
-Click on the link to access the solution along with the code. I am still in the process of adding detailed solutions to all the problems, only the trivial ones are left. 
+Click on the link to access the solution along with the code. 
 
 ### 800 Rating
 
@@ -240,6 +241,11 @@ Click on the link to access the solution along with the code. I am still in the 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1230 | [MODEX](https://github.com/RougeKitten/DSA/blob/main/Problems/UVa%20Online%20Judge/1230.cpp) | Number Theory |
+
+## CSES Problem Set
+ Name    |   Topic Tags    |
+| :------- | :-------        |
+| [Distinct Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Distinct%20Numbers.cpp) | Searching and Sorting |
 
 # Key Notes
 

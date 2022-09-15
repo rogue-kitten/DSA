@@ -26,7 +26,7 @@ I have also tried to add a few notes or code snippets for important concepts whi
   - [SPOJ](https://github.com/RougeKitten/DSA#spoj)
   - [Code Chef](https://github.com/RougeKitten/DSA#code-chef)
   - [UVa Online Judge](https://github.com/RougeKitten/DSA#uva-online-judge)
-  - [CSES Problem Set](https://github.com/RougeKitten/DSA#cses-problem-set
+  - [CSES Problem Set](https://github.com/RougeKitten/DSA#cses-problem-set)
 - [Notes](https://github.com/RougeKitten/DSA#key-notes)
 
   

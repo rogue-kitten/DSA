@@ -256,6 +256,7 @@ Click on the link to access the solution along with the code.
 | [Stick Lengths](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Stick%20Lenghts.cpp) | Searching and Sorting |
 | [Missing Coin Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Missing%20Coin%20Sum.cpp) | Searching and Sorting |
 | [Collecting Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Collecting%20Numbers.cpp) | Searching and Sorting |
+| [Collecting Numbers II](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Collecting%20Numbers%20II.cpp) | Searching and Sorting |
 
 # Key Notes
 

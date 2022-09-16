@@ -134,6 +134,7 @@ Click on the link to access the solution along with the code.
 | 75/C | [Modified GCD](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/75C.cpp) | Number Theory, Binary Search |
 | 1025/B | [Weakened Common Divisor](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1025B.md) | Number Theory |
 | 1722/E | [Counting Rectangles](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1722E.cpp) | Prefix Sum |
+| 1497/C2 | [k-LCM (Hard Version)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1600/1497C2.cpp) | Number Theory |
 
 ### 1700 Rating
 

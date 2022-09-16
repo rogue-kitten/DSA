@@ -248,6 +248,7 @@ Click on the link to access the solution along with the code.
 | [Distinct Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Distinct%20Numbers.cpp) | Searching and Sorting |
 | [Apartments](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Apartments.cpp) | Searching and Sorting |
 | [Ferris Wheel](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Ferris%20Wheel.cpp) | Searching and Sorting |
+| [Concert Tickets](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Concert%20Tickets.cpp) | Searching and Sorting |
 
 # Key Notes
 

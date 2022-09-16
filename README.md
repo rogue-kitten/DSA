@@ -254,7 +254,8 @@ Click on the link to access the solution along with the code.
 | [Sum of 2 values](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Sum%20of%20two%20values.cpp) | Searching and Sorting |
 | [Max Sum subarray](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Max%20sum%20subarray.cpp) | Searching and Sorting |
 | [Stick Lengths](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Stick%20Lenghts.cpp) | Searching and Sorting |
-| [Missing Coni Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Missing%20Coin%20Sum.cpp) | Searching and Sorting |
+| [Missing Coin Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Missing%20Coin%20Sum.cpp) | Searching and Sorting |
+| [Collecting Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Collecting%20Numbers.cpp) | Searching and Sorting |
 
 # Key Notes
 

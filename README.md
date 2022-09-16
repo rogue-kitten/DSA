@@ -246,6 +246,7 @@ Click on the link to access the solution along with the code.
  Name    |   Topic Tags    |
 | :------- | :-------        |
 | [Distinct Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Distinct%20Numbers.cpp) | Searching and Sorting |
+| [Apartments](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Apartments.cpp) | Searching and Sorting |
 
 # Key Notes
 

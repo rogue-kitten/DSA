@@ -95,6 +95,7 @@ Click on the link to access the solution along with the code.
 | 1527/B1 | [Palindrome Game (Easy)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1527B1.cpp) | Greedy |
 | 1532/C | [Stable Groups](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1532C.cpp) | Greedy, Sorting |
 | 1553/C | [Penalty](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1553C.cpp) | Implementation |
+| 1497/C1 | [k-LCM(Easy Version)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1497C1.cpp) | Number Theory |
 
 ### 1300 Rating
 

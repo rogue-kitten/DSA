@@ -251,6 +251,7 @@ Click on the link to access the solution along with the code.
 | [Concert Tickets](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Concert%20Tickets.cpp) | Searching and Sorting |
 | [Restaurent Customers](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Restaurent%20Customers.cpp) | Searching and Sorting |
 | [Movie Festival](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Movie%20festival.cpp) | Searching and Sorting |
+| [Max Sum subarray](https://github.com/RougeKitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Max%20sum%20subarray.cpp) | Searching and Sorting |
 
 # Key Notes
 

@@ -100,7 +100,7 @@ Click on the link to access the solution along with the code.
 | 1613/C     | [Poisioned Dagger](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1613C.md)             | Binary Search           |     |     |
 | 1613/C     | [Wrong Addition](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1619C.md)               | Implementation          |     |     |
 | 1512/D     | [Corrupted Array](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1512D.md)              | Implementation, Sorting |     |     |
-| 1472/D     | [Even Odd Game](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1472.md)                 | Greedy, Sorting |     |     |
+| 1472/D     | [Even Odd Game](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1472D.md)                 | Greedy, Sorting |     |     |
 
 ### 1300 Rating
 

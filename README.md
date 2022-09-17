@@ -84,22 +84,24 @@ Click on the link to access the solution along with the code.
 
 ### 1200 Rating
 
-| Problem ID | Name                                                                                                           | Topic Tags             |     |     |
-|:---------- |:-------------------------------------------------------------------------------------------------------------- |:---------------------- | --- | --- |
-| 514/A      | [Chewbacca and Number](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/514A.cpp)         | Implementation         |     |     |
-| 1097/B     | [Petr and a Combination Lock](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1097B.cpp) | Implementation         |     |     |
-| 1520/D     | [Same Differences](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1520D.cpp)            | Implementation         |     |     |
-| 1537/C     | [Challenging Cliffs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1537C.cpp)          | Implementation, Greedy |     |     |
-| 1541/B     | [Pleasant Pairs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1541B.cpp)              | Greedy, Sorting        |     |     |
-| 1527/B1    | [Palindrome Game (Easy)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1527B1.cpp)     | Greedy                 |     |     |
-| 1532/C     | [Stable Groups](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1532C.cpp)               | Greedy, Sorting        |     |     |
-| 1553/C     | [Penalty](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1553C.cpp)                     | Implementation         |     |     |
-| 1497/C1    | [k-LCM(Easy Version)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1497C1.cpp)        | Number Theory          |     |     |
-| 1536/B     | [Prinzessin der Verurteilung](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1536B.md)  | Strings, Pigeonhole    |     |     |
-| 1514/B     | [AND 0 Max Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1514B.md)                | Bits, Combinatorics    |     |     |
-| 1613/C     | [Poisioned Dagger](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1613C.md)             | Binary Search          |     |     |
-| 1613/C     | [Wrong Addition](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1619C.md)               | Implementation         |     |     |
-| 1512/D     | [Corrupted Array](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1512D.md)              | Implementation, Sorting         |     |     |
+| Problem ID | Name                                                                                                           | Topic Tags              |     |     |
+|:---------- |:-------------------------------------------------------------------------------------------------------------- |:----------------------- | --- | --- |
+| 514/A      | [Chewbacca and Number](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/514A.cpp)         | Implementation          |     |     |
+| 1097/B     | [Petr and a Combination Lock](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1097B.cpp) | Implementation          |     |     |
+| 1520/D     | [Same Differences](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1520D.cpp)            | Implementation          |     |     |
+| 1537/C     | [Challenging Cliffs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1537C.cpp)          | Implementation, Greedy  |     |     |
+| 1541/B     | [Pleasant Pairs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1541B.cpp)              | Greedy, Sorting         |     |     |
+| 1527/B1    | [Palindrome Game (Easy)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1527B1.cpp)     | Greedy                  |     |     |
+| 1532/C     | [Stable Groups](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1532C.cpp)               | Greedy, Sorting         |     |     |
+| 1553/C     | [Penalty](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1553C.cpp)                     | Implementation          |     |     |
+| 1497/C1    | [k-LCM(Easy Version)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1497C1.cpp)        | Number Theory           |     |     |
+| 1536/B     | [Prinzessin der Verurteilung](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1536B.md)  | Strings, Pigeonhole     |     |     |
+| 1514/B     | [AND 0 Max Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1514B.md)                | Bits, Combinatorics     |     |     |
+| 1613/C     | [Poisioned Dagger](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1613C.md)             | Binary Search           |     |     |
+| 1613/C     | [Wrong Addition](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1619C.md)               | Implementation          |     |     |
+| 1512/D     | [Corrupted Array](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1512D.md)              | Implementation, Sorting |     |     |
+| 1472/D     | [Even Odd Game](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1472.md)                 | Greedy, Sorting |     |     |
+
 ### 1300 Rating
 
 | Problem ID | Name    |   Topic Tags    |

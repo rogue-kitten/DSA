@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/CodeForces/1200/1512D.md",
+            "file": "README.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/CodeForces/1200/1512D.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/CodeForces/1200/1512D.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/CodeForces/1200/1512D.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,8 +130,9 @@
   },
   "active": "314d1cfd70c1d8d6",
   "lastOpenFiles": [
-    "README.md",
+    "Problems/CodeForces/1200/1472D.md",
     "Problems/CodeForces/1200/1512D.md",
+    "README.md",
     "Problems/CodeForces/1200/1619C.md",
     "Problems/CodeForces/1200/1613C.md",
     "Problems/CodeForces/1200/1514B.md",

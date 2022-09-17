@@ -1,9 +1,7 @@
 
 # Conquer DSA
 
-This repository contains all the important algorithms which one might frequently encounter while doing CP or Interview Prep, along with some solutions for a few famous leetcode problems.
-
-I have also tried to add a few notes or code snippets for important concepts which can get overlooked sometimes. 
+Everything I'm currently doing related to Competitive Programming/DSA at one place
 
 ## Table of Content
 

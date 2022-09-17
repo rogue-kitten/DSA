@@ -98,7 +98,8 @@ Click on the link to access the solution along with the code.
 | 1536/B     | [Prinzessin der Verurteilung](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1536B.md)  | Strings, Pigeonhole    |     |     |
 | 1514/B     | [AND 0 Max Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1514B.md)                | Bits, Combinatorics    |     |     |
 | 1613/C     | [Poisioned Dagger](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1613C.md)             | Binary Search          |     |     |
-| 1613/C     | [Wrong Addition](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1619C.md)               | Implementation          |     |     |
+| 1613/C     | [Wrong Addition](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1619C.md)               | Implementation         |     |     |
+| 1512/D     | [Corrupted Array](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1512D.md)              | Implementation, Sorting         |     |     |
 ### 1300 Rating
 
 | Problem ID | Name    |   Topic Tags    |

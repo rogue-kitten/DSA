@@ -97,7 +97,7 @@ Click on the link to access the solution along with the code.
 | 1497/C1    | [k-LCM(Easy Version)](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1497C1.cpp)        | Number Theory          |     |     |
 | 1536/B     | [Prinzessin der Verurteilung](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1536B.md)  | Strings, Pigeonhole    |     |     |
 | 1514/B     | [AND 0 Max Sum](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1514B.md)                | Bits, Combinatorics    |     |     |
-| 1613/C     | [Poisioned Dagger](obsidian://open?vault=DSA&file=Problems%2FCodeForces%2F1200%2F1613C)                        | Binary Search                       |     |     |
+| 1613/C     | [Poisioned Dagger](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1613C.md)                        | Binary Search |
 
 ### 1300 Rating
 

@@ -105,12 +105,15 @@ Click on the link to access the solution along with the code.
 | 1598/C     | [Delete two elements](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1200/1598C.md)              | Greedy, Implementation  |                                                                                                                    |                         |     |     |
 ### 1300 Rating
 
-| Problem ID | Name    |   Topic Tags    |
-| :-------- | :------- | :------- |
-| 912/B | [New Year's Eve](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/912B.cpp) | Bit Manipulation |
-| 1602/C | [Array Elimination](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1602C.cpp) | Bit Manipulation, Number Theory |
-| 185/A | [Plant](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/185A.md) | Maths |
-| 1294/C | [Product of Three Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1294C.md) | Number Theory |
+| Problem ID | Name                                                                                                       | Topic Tags                      |
+|:---------- |:---------------------------------------------------------------------------------------------------------- |:------------------------------- |
+| 912/B      | [New Year's Eve](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/912B.cpp)           | Bit Manipulation                |
+| 1602/C     | [Array Elimination](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1602C.cpp)       | Bit Manipulation, Number Theory |
+| 185/A      | [Plant](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/185A.md)                     | Maths                           |
+| 1294/C     | [Product of Three Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1294C.md) | Number Theory                   |
+| 1538/C     | [Number of Pairs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1538C.md)          | Binary Search                   |
+| 1555/C     | [Coin Rows](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1555C.md)                | Greedy, Implementation                   |
+| 1521/B     | [Nastia and a Good Array](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1521B.md)                | Greedy, Number Theory                   |
 
 
 ### 1400 Rating

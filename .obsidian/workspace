@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "314d1cfd70c1d8d6",
+        "id": "4ab4ba20ed8ead85",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "314d1cfd70c1d8d6",
+  "active": "4ab4ba20ed8ead85",
   "lastOpenFiles": [
-    "Problems/CodeForces/1200/1598C.md",
+    "Problems/CodeForces/1300/1521B.md",
     "README.md",
+    "Problems/CodeForces/1300/1555C.md",
+    "Problems/CodeForces/1300/1538C.md",
+    "Problems/CodeForces/1200/1472D.md",
+    "Problems/CodeForces/1200/1598C.md",
     "Problems/CodeForces/1200/1512D.md",
     "images/IMG_3939.jpeg",
     "images/IMG_3928.jpeg",
-    "Problems/CodeForces/1200/1594C.md",
-    "Problems/CodeForces/1200/1472D.md",
-    "Problems/CodeForces/1200/1619C.md",
-    "Problems/CodeForces/1200/1613C.md",
-    "Problems/CodeForces/1200/1514B.md"
+    "Problems/CodeForces/1200/1594C.md"
   ]
 }

@@ -1,5 +1,6 @@
 {
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "Roboto",
-  "baseFontSize": 18
+  "interfaceFontFamily": "SF Pro Rounded",
+  "baseFontSize": 20,
+  "textFontFamily": "SF Pro Rounded"
 }

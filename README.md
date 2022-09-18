@@ -114,6 +114,8 @@ Click on the link to access the solution along with the code.
 | 1538/C     | [Number of Pairs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1538C.md)          | Binary Search                   |
 | 1555/C     | [Coin Rows](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1555C.md)                | Greedy, Implementation                   |
 | 1521/B     | [Nastia and a Good Array](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1521B.md)                | Greedy, Number Theory                   |
+|1618/D     | [Array and Operations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1618D.md)                | Greedy, Sorting                   |
+|1560/D     | [Make a power of 2](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1560D.md)                | Strings                   |
 
 
 ### 1400 Rating

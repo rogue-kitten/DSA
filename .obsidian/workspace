@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab4ba20ed8ead85",
+        "id": "5a00182c095a610a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ab4ba20ed8ead85",
+  "active": "5a00182c095a610a",
   "lastOpenFiles": [
+    "Problems/CodeForces/1300/1627B.md",
     "Problems/CodeForces/1300/1560D.md",
     "README.md",
     "Problems/CodeForces/1300/1618D.md",
@@ -138,7 +139,6 @@
     "Problems/CodeForces/1300/1538C.md",
     "Problems/CodeForces/1200/1472D.md",
     "Problems/CodeForces/1200/1598C.md",
-    "Problems/CodeForces/1200/1512D.md",
-    "images/IMG_3939.jpeg"
+    "Problems/CodeForces/1200/1512D.md"
   ]
 }

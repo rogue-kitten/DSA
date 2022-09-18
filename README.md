@@ -116,6 +116,7 @@ Click on the link to access the solution along with the code.
 | 1521/B     | [Nastia and a Good Array](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1521B.md)                | Greedy, Number Theory                   |
 |1618/D     | [Array and Operations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1618D.md)                | Greedy, Sorting                   |
 |1560/D     | [Make a power of 2](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1560D.md)                | Strings                   |
+|1627/B     | [Not Sitting](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1627B.md)                | Greedy, Sorting                   |
 
 
 ### 1400 Rating

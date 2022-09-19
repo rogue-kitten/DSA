@@ -112,11 +112,14 @@ Click on the link to access the solution along with the code.
 | 185/A      | [Plant](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/185A.md)                     | Maths                           |
 | 1294/C     | [Product of Three Numbers](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1294C.md) | Number Theory                   |
 | 1538/C     | [Number of Pairs](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1538C.md)          | Binary Search                   |
-| 1555/C     | [Coin Rows](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1555C.md)                | Greedy, Implementation                   |
-| 1521/B     | [Nastia and a Good Array](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1521B.md)                | Greedy, Number Theory                   |
-|1618/D     | [Array and Operations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1618D.md)                | Greedy, Sorting                   |
-|1560/D     | [Make a power of 2](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1560D.md)                | Strings                   |
-|1627/B     | [Not Sitting](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1627B.md)                | Greedy, Sorting                   |
+| 1555/C     | [Coin Rows](https://github.com/RougeKitten/DSA/blob/main/Problems/CodeForces/1300/1555C.md)                | Greedy, Implementation          |
+| 1521/B     | [Nastia and a Good Array](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1521B.md) | Greedy, Number Theory           |
+| 1618/D     | [Array and Operations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1618D.md)    | Greedy, Sorting                 |
+| 1560/D     | [Make a power of 2](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1560D.md)       | Strings                         |
+| 1627/B     | [Not Sitting](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1627B.md)             | Greedy, Sorting                 |
+| 1615/B     | [And it's non zero](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1615B.md)       | Bit Manipulation, Prefix Sum    |
+| 1547/D     | [Co-growing sequence](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1547D.md)     | Bit Manipulation    |
+| 1555/B     | [Two tables](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1555B.md)     | Greedy, Implementation    |
 
 
 ### 1400 Rating

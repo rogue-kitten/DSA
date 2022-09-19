@@ -120,25 +120,33 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "54c284ed562604f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 100
   },
   "active": "5a00182c095a610a",
   "lastOpenFiles": [
+    "Problems/CodeForces/1300/1555B.md",
+    "README.md",
+    "Problems/CodeForces/1300/1547D.md",
+    "Problems/CodeForces/1300/1615B.md",
     "Problems/CodeForces/1300/1627B.md",
     "Problems/CodeForces/1300/1560D.md",
-    "README.md",
     "Problems/CodeForces/1300/1618D.md",
     "Problems/CodeForces/1300/1521B.md",
     "Problems/CodeForces/1300/1555C.md",
-    "Problems/CodeForces/1300/1538C.md",
-    "Problems/CodeForces/1200/1472D.md",
-    "Problems/CodeForces/1200/1598C.md",
-    "Problems/CodeForces/1200/1512D.md"
+    "Problems/CodeForces/1300/1538C.md"
   ]
 }

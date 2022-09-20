@@ -84,8 +84,8 @@ Click on the link to access the solution along with the code.
 
 ### 1200 Rating
 
-| Problem ID | Name                                                                                                           | Topic Tags              |     |     |
-|:---------- |:-------------------------------------------------------------------------------------------------------------- |:----------------------- | --- | --- |
+| Problem ID | Name                                                                                                            | Topic Tags              |     |     |
+|:---------- |:--------------------------------------------------------------------------------------------------------------- |:----------------------- | --- | --- |
 | 514/A      | [Chewbacca and Number](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/514A.cpp)         | Implementation          |     |     |
 | 1097/B     | [Petr and a Combination Lock](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1097B.cpp) | Implementation          |     |     |
 | 1520/D     | [Same Differences](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1520D.cpp)            | Implementation          |     |     |
@@ -102,7 +102,10 @@ Click on the link to access the solution along with the code.
 | 1512/D     | [Corrupted Array](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1512D.md)              | Implementation, Sorting |     |     |
 | 1472/D     | [Even Odd Game](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1472D.md)                | Greedy, Sorting         |     |     |
 | 1594/C     | [Make them equal](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1594C.md)              | Greedy, Implementation  |     |     |
-| 1598/C     | [Delete two elements](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1598C.md)              | Greedy, Implementation  |                                                                                                                    |                         |     |     |
+| 1598/C     | [Delete two elements](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1598C.md)          | Greedy, Implementation  |     |     |
+| 1592/B     | [Hemose Shopping](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1592B.md)              | Greedy, sorting      |
+| 1512/C     | [A-B Palindrome](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1200/1512C.md)              | Greedy      |
+
 ### 1300 Rating
 
 | Problem ID | Name                                                                                                       | Topic Tags                      |
@@ -120,7 +123,7 @@ Click on the link to access the solution along with the code.
 | 1615/B     | [And it's non zero](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1615B.md)       | Bit Manipulation, Prefix Sum    |
 | 1547/D     | [Co-growing sequence](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1547D.md)     | Bit Manipulation    |
 | 1555/B     | [Two tables](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1555B.md)     | Greedy, Implementation    |
-
+| 1617/C     | [Paprika and Permutations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1617C.md)     | Greedy, Implementation
 
 ### 1400 Rating
 

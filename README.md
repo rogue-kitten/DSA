@@ -123,7 +123,9 @@ Click on the link to access the solution along with the code.
 | 1615/B     | [And it's non zero](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1615B.md)       | Bit Manipulation, Prefix Sum    |
 | 1547/D     | [Co-growing sequence](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1547D.md)     | Bit Manipulation    |
 | 1555/B     | [Two tables](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1555B.md)     | Greedy, Implementation    |
-| 1617/C     | [Paprika and Permutations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1617C.md)     | Greedy, Implementation
+| 1617/C     | [Paprika and Permutations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1617C.md)     | Greedy, Implementation |
+| 1607/D     | [Blue-Red Permutations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1607D.md)     | Greedy
+| 1574/C     | [Slay the dragon](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1547C.md)     | Greedy, Binary Search
 
 ### 1400 Rating
 
@@ -134,6 +136,8 @@ Click on the link to access the solution along with the code.
 | 1494/B | [Berland Crossword](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1494B.md) | Bit Manipulation, Greedy |
 | 1721/C | [Min-Max Array Transformation](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1721C.cpp) | Two Pointers |
 | 1728/C | [Digital Logarithm](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1728C.cpp) | Greedy |
+| 1526/B | [I Hate 1111](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1526B.md) | Implementation |
+| 1605/C | [Dominant Character](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1605C.md) | Strings, Implementation |
 
 
 ### 1500 Rating

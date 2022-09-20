@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5e0849d8382c5381",
+        "id": "f54f6b54e80543c9",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "5e0849d8382c5381",
+  "active": "f54f6b54e80543c9",
   "lastOpenFiles": [
-    "Problems/CodeForces/1600/1617C.md",
     "README.md",
+    "Problems/CodeForces/1400/1605C.md",
+    "Problems/CodeForces/1400/1526B.md",
+    "Problems/CodeForces/1300/1574C.md",
+    "Problems/CodeForces/1300/1607D.md",
+    "Problems/CodeForces/1600/1617C.md",
     "Problems/CodeForces/1200/1512C.md",
     "Problems/CodeForces/1200/1592B.md",
     "Problems/CodeForces/Contests/821 Div 2/1733D.md",
-    "Problems/CodeForces/Contests/821 Div 2/1733C.md",
-    "Problems/CodeForces/Contests/821 Div 2/1733B.md",
-    "Problems/CodeForces/Contests/821 Div 2/1733A.md",
-    "Problems/CodeForces/1300/1555B.md",
-    "Problems/CodeForces/1300/1547D.md"
+    "Problems/CodeForces/Contests/821 Div 2/1733C.md"
   ]
 }

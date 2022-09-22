@@ -125,7 +125,12 @@ Click on the link to access the solution along with the code.
 | 1555/B     | [Two tables](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1555B.md)     | Greedy, Implementation    |
 | 1617/C     | [Paprika and Permutations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1617C.md)     | Greedy, Implementation |
 | 1607/D     | [Blue-Red Permutations](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1607D.md)     | Greedy
-| 1574/C     | [Slay the dragon](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1547C.md)     | Greedy, Binary Search
+| 1574/C     | [Slay the dragon](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1547C.md)     | Greedy, Binary Search |
+| 1476/B     | [Inflation](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1476B.md)     | Greedy, Binary Search |
+| 1553/B     | [Reverse Strings](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1553B.md)     | Greedy, Brute Force |
+| 1360/D     | [Buying Shovels](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1360D.md)     | Greedy, Number Theory |
+| 230/B     | [T-Primes](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/230B.md)     | Number Theory |
+| 1466/C     | [Canine Poetry](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1466C.md)     | Strings, Greedy |
 
 ### 1400 Rating
 

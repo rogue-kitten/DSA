@@ -143,6 +143,8 @@ Click on the link to access the solution along with the code.
 | 1728/C | [Digital Logarithm](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1728C.cpp) | Greedy |
 | 1526/B | [I Hate 1111](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1526B.md) | Implementation |
 | 1605/C | [Dominant Character](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1605C.md) | Strings, Implementation |
+| 1520/E | [Arranging sheeps](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1520E.md) | Greedy, Constructive Algorithms |
+| 1506/D | [Epic Transformation](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1506D.md) | Greedy |
 
 
 ### 1500 Rating

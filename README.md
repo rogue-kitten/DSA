@@ -145,6 +145,9 @@ Click on the link to access the solution along with the code.
 | 1605/C | [Dominant Character](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1605C.md) | Strings, Implementation |
 | 1520/E | [Arranging sheeps](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1520E.md) | Greedy, Constructive Algorithms |
 | 1506/D | [Epic Transformation](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1506D.md) | Greedy |
+| 1551/B2 | [Wonderful Colouring - Part 2](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1551B2.md) | Greedy, Sorting |
+| 1624/D | [Palindrome Colouring](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1624D.md) | Greedy, Strings |
+| 1515/C | [Phoenix and Towers](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1515C.md) | Greedy, Strings |
 
 
 ### 1500 Rating

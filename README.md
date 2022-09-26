@@ -57,6 +57,9 @@ Click on the link to access the solution along with the code.
 | 1728/A | [Coloured Balls: Revisited](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/800/1728A.cpp) | Implementation |
 | 1728/B | [Best Permutation](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/800/1728B.cpp) | Implementation |
 | 1733/A | [Consecutive Sum](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733A.md) | Greedy |
+| 1734/A | [Select three sticks](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1734A.md) | Greedy |
+| 1734/B | [Nice, Bright, Brilliant](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1734B.md) | Implementation |
+| 1730/A | [Planets](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/800/1730A) | Implementation |
 
 
 ### 900 Rating
@@ -107,6 +110,8 @@ Click on the link to access the solution along with the code.
 | 1598/C     | [Delete two elements](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1598C.md)          | Greedy, Implementation  |     |     |
 | 1592/B     | [Hemose Shopping](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1592B.md)              | Greedy, sorting      |
 | 1512/C     | [A-B Palindrome](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1512C.md)              | Greedy      |
+| 1734/C     | [Remove Smallest Multiple](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1734C.md)  | Greedy      |
+| 1730/C     | [Minimum Notation](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1730C.md)  | Greedy, String, Sorting      |
 
 ### 1300 Rating
 
@@ -170,6 +175,7 @@ Click on the link to access the solution along with the code.
 | 1025/B | [Weakened Common Divisor](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1025B.md) | Number Theory |
 | 1722/E | [Counting Rectangles](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1722E.cpp) | Prefix Sum |
 | 1497/C2 | [k-LCM (Hard Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1497C2.cpp) | Number Theory |
+| 1730/B | [Meeting on the line](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1730B.md) | Binary Seacrh |
 
 ### 1700 Rating
 

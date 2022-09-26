@@ -56,6 +56,7 @@ Click on the link to access the solution along with the code.
 | 1722/C | [Word Game](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/800/1722C.cpp) | Implementation |
 | 1728/A | [Coloured Balls: Revisited](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/800/1728A.cpp) | Implementation |
 | 1728/B | [Best Permutation](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/800/1728B.cpp) | Implementation |
+| 1733/A | [Consecutive Sum](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733A.md) | Greedy |
 
 
 ### 900 Rating
@@ -63,6 +64,7 @@ Click on the link to access the solution along with the code.
 | Problem ID | Name    |  Topic Tags    |
 | :-------- | :------- | :------- |
 | 26/A | [Almost Primes](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/900/26A.cpp) | Number Theory |
+| 1733/B | [Rule of League](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733B.md) | Implementation |
 
 ### 1000 Rating
 
@@ -131,6 +133,7 @@ Click on the link to access the solution along with the code.
 | 1360/D     | [Buying Shovels](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1360D.md)     | Greedy, Number Theory |
 | 230/B     | [T-Primes](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/230B.md)     | Number Theory |
 | 1466/C     | [Canine Poetry](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1300/1466C.md)     | Strings, Greedy |
+| 1733/C | [Parity Shuffle Sorting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733C.md) |Sorting, Greedy  |
 
 ### 1400 Rating
 
@@ -148,7 +151,7 @@ Click on the link to access the solution along with the code.
 | 1551/B2 | [Wonderful Colouring - Part 2](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1551B2.md) | Greedy, Sorting |
 | 1624/D | [Palindrome Colouring](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1624D.md) | Greedy, Strings |
 | 1515/C | [Phoenix and Towers](https://github.com/rouge-kitten/DSA/blob/main/Problems/CodeForces/1400/1515C.md) | Greedy, Strings |
-
+| 1733/D | [Zero-One (Easy Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733D.md) |Sorting, Greedy  |
 
 ### 1500 Rating
 

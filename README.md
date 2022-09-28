@@ -1,7 +1,9 @@
 
 # Conquer DSA
 
-Everything I'm currently doing related to Competitive Programming/DSA at one place
+Everything I'm currently doing related to Competitive Programming/DSA at one place. 
+
+Feel free to check out my coding profiles on [codeforces](https://codeforces.com/profile/rouge_kitten) and [codechef](https://www.codechef.com/users/rouge_kitten) 
 
 ## Table of Content
 

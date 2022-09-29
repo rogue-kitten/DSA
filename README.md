@@ -159,6 +159,8 @@ Click on the link to access the solution along with the code.
 | 1624/D | [Palindrome Colouring](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1400/1624D.md) | Greedy, Strings |
 | 1515/C | [Phoenix and Towers](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1400/1515C.md) | Greedy, Strings |
 | 1733/D | [Zero-One (Easy Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733D.md) |Sorting, Greedy  |
+| 1475/C | [Ball in Berland)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1475C.md) |Greedy  |
+| 1519/C | [Berland Regionals)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1519C.md) |Greedy, Sorting, Prefix Sum  |
 
 ### 1500 Rating
 

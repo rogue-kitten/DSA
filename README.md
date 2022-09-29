@@ -292,7 +292,7 @@ Click on the link to access the solution along with the code.
 
 ## CSES Problem Set
  Name    |   Topic Tags    |
-| :------- | :-------        |
+| :-------| :----------|
 | [Distinct Numbers](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Distinct%20Numbers.cpp) | Searching and Sorting |
 | [Apartments](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Apartments.cpp) | Searching and Sorting |
 | [Ferris Wheel](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Ferris%20Wheel.cpp) | Searching and Sorting |
@@ -305,6 +305,9 @@ Click on the link to access the solution along with the code.
 | [Missing Coin Sum](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Missing%20Coin%20Sum.cpp) | Searching and Sorting |
 | [Collecting Numbers](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Collecting%20Numbers.cpp) | Searching and Sorting |
 | [Collecting Numbers II](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Collecting%20Numbers%20II.cpp) | Searching and Sorting |
+| [Dice Combinations](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1633.md) | Dynamic Programming |
+| [Minimizing Coins](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1634.md) | Dynamic Programming |
+| [Coin Combinations 1](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1635.md) | Dynamic Programming |
 
 # Key Notes
 

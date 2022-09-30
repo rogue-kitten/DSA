@@ -203,18 +203,19 @@ Click on the link to access the solution along with the code.
 | 803/F | [CoPrime Sequence](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/2000/803F.md) | Number Theory |
 
 ## LeetCode
-| Name | Difficulty    |   Topic Tags    |
-| :-------- | :------- | :-------        |
-| 136. [Single Number](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/136.cpp) | Easy | Bit Manipulation |
-| 137. [Single Number II](https://github.com/rogue-kitten/DSA/blob/main/Bit%20Manipulation/6.%20Unique%20Number%20III.md) | Medium | Bit Manipulation |
-| 260. [Single Number III](https://github.com/rogue-kitten/DSA/blob/main/Bit%20Manipulation/5.%20Unique%20Number%20II.md) | Medium | Bit Manipulation |
-| 239. [Sliding Window Maximum](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/239.cpp) | Hard | Monotonic Queue |
-| 974. [Subarray Sums Divisible by K](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/974.md) | Medium | Modulo, Prefix Sum, Pigeon Hole |
-| 153. [Find Minimum in Rotated Sorted Array](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/153.cpp) | Medium | Binary Search |
-| 154. [Find Minimum in Rotated Sorted Array II ](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/154.cpp) | Hard | Binary Search |
-| 852. [Peak Index in a Mountain Array ](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/852.cpp) | Medium | Binary Search |
-| 34. [Find First and Last Position of Element in Sorted Array](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/34.cpp) | Medium | Binary Search |
-| 33. [Search in Rotated and Sorted Array](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/33.cpp) | Medium | Binary Search |
+| Name                                                                                                                                  | Difficulty | Topic Tags                      |
+|:------------------------------------------------------------------------------------------------------------------------------------- |:---------- |:------------------------------- |
+| 136. [Single Number](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/136.cpp)                                         | Easy       | Bit Manipulation                |
+| 137. [Single Number II](https://github.com/rogue-kitten/DSA/blob/main/Bit%20Manipulation/6.%20Unique%20Number%20III.md)               | Medium     | Bit Manipulation                |
+| 260. [Single Number III](https://github.com/rogue-kitten/DSA/blob/main/Bit%20Manipulation/5.%20Unique%20Number%20II.md)               | Medium     | Bit Manipulation                |
+| 239. [Sliding Window Maximum](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/239.cpp)                                | Hard       | Monotonic Queue                 |
+| 974. [Subarray Sums Divisible by K](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/974.md)                           | Medium     | Modulo, Prefix Sum, Pigeon Hole |
+| 153. [Find Minimum in Rotated Sorted Array](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/153.cpp)                  | Medium     | Binary Search                   |
+| 154. [Find Minimum in Rotated Sorted Array II ](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/154.cpp)              | Hard       | Binary Search                   |
+| 852. [Peak Index in a Mountain Array ](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/852.cpp)                       | Medium     | Binary Search                   |
+| 34. [Find First and Last Position of Element in Sorted Array](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/34.cpp) | Medium     | Binary Search                   |
+| 33. [Search in Rotated and Sorted Array](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/33.cpp)                      | Medium     | Binary Search                   |
+| 198. [House Robber](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/198.cpp)                                          | Medium     | Dynamic Programming                   |
 
 ## GeeksForGeeks
 | Name | Difficulty    |   Topic Tags    |
@@ -310,6 +311,10 @@ Click on the link to access the solution along with the code.
 | [Dice Combinations](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1633.md) | Dynamic Programming |
 | [Minimizing Coins](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1634.md) | Dynamic Programming |
 | [Coin Combinations 1](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1635.md) | Dynamic Programming |
+| [Coin Combinations 2](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1636.md) | Dynamic Programming |
+| [Removing Digits](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1637.md) | Dynamic Programming |
+| [Grid path](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1638.md) | Dynamic Programming |
+| [Book Shop](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1158.md) | Dynamic Programming |
 
 # Key Notes
 

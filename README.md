@@ -113,7 +113,7 @@ Click on the link to access the solution along with the code.
 | 1592/B     | [Hemose Shopping](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1592B.md)              | Greedy, sorting      |
 | 1512/C     | [A-B Palindrome](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1512C.md)              | Greedy      |
 | 1734/C     | [Remove Smallest Multiple](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1734C.md)  | Greedy      |
-| 1730/C     | [Minimum Notation](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1730C.md)  | Greedy, String, Sorting      |
+| 1730/C     | [Minimum Notation](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1730C.md)  | Greedy, String, Sorting      |
 
 ### 1300 Rating
 

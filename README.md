@@ -61,7 +61,7 @@ Click on the link to access the solution along with the code.
 | 1733/A | [Consecutive Sum](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733A.md) | Greedy |
 | 1734/A | [Select three sticks](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1734A.md) | Greedy |
 | 1734/B | [Nice, Bright, Brilliant](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1734B.md) | Implementation |
-| 1730/A | [Planets](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/800/1730A) | Implementation |
+| 1730/A | [Planets](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/800/1730A.md) | Implementation |
 
 
 ### 900 Rating

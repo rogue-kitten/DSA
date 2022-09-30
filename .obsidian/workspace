@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0d6639e4ce04678f",
+        "id": "49258eefc86d7bf5",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4a2b0e21a93205db",
@@ -129,17 +128,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "0d6639e4ce04678f",
+  "active": "49258eefc86d7bf5",
   "lastOpenFiles": [
-    "Problems/CSES/Dynamic Programming/1635.md",
+    "Problems/CodeForces/1400/1597D.md",
     "README.md",
+    "Problems/CodeForces/1400/1606C.md",
+    "Problems/CSES/Dynamic Programming/1635.md",
     "Problems/CSES/Dynamic Programming/1634.md",
     "Problems/CSES/Dynamic Programming/1633.md",
     "images/Pasted image 20220929175847.png",
     "DP/1. Intro and Basics.md",
     "Problems/CodeForces/1200/1514B.md",
-    "images/Pasted image 20220929170705.png",
-    "Problems/CodeForces/1400/1519C.md",
-    "Problems/CodeForces/1400/1475C.md"
+    "images/Pasted image 20220929170705.png"
   ]
 }

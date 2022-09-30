@@ -161,6 +161,8 @@ Click on the link to access the solution along with the code.
 | 1733/D | [Zero-One (Easy Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733D.md) |Sorting, Greedy  |
 | 1475/C | [Ball in Berland)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1475C.md) |Greedy  |
 | 1519/C | [Berland Regionals)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1519C.md) |Greedy, Sorting, Prefix Sum  |
+| 1606/C | [Bank Notes](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1606C.md) |Greedy  |
+| 1597/D | [Productive Meeting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1597D.md) |Greedy  |
 
 ### 1500 Rating
 
@@ -317,4 +319,5 @@ Click on the link to access the solution along with the code.
 4. [Basic Math](https://github.com/rogue-kitten/DSA/tree/main/Basic%20Math)
 5. [Number Theory](https://github.com/rogue-kitten/DSA/tree/main/Number%20Theory)
 6. [Binary Search](https://github.com/rogue-kitten/DSA/tree/main/Binary%20Search)
+7. [Dynamic Programming](https://github.com/rogue-kitten/DSA/tree/main/DP)
 

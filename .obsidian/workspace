@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "450323b932751209",
+        "id": "c34ec34d6ad33fe7",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -129,9 +129,10 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "450323b932751209",
+  "active": "c34ec34d6ad33fe7",
   "lastOpenFiles": [
     "README.md",
+    "Problems/CSES/Dynamic Programming/1746.md",
     "Problems/CSES/Dynamic Programming/1158.md",
     "Problems/CSES/Dynamic Programming/1636.md",
     "Problems/CSES/Dynamic Programming/1638.md",
@@ -139,7 +140,6 @@
     "Problems/Leetcode/198.md",
     "DP/1. Intro and Basics.md",
     "Problems/CSES/Dynamic Programming/1635.md",
-    "Problems/CSES/Dynamic Programming/1634.md",
-    "Problems/CSES/Dynamic Programming/1633.md"
+    "Problems/CSES/Dynamic Programming/1634.md"
   ]
 }

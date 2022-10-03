@@ -317,6 +317,9 @@ Click on the link to access the solution along with the code.
 | [Book Shop](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1158.md) | Dynamic Programming |
 | [Array Description](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1746.md) | Dynamic Programming |
 | [Counting towers](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/2413.md) | Dynamic Programming |
+| [Edit Distance](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1639.md) | Dynamic Programming |
+| [Rectangle cutting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1744.md) | Dynamic Programming |
+| [Money Sums](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1745.md) | Dynamic Programming |
 
 # Key Notes
 

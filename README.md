@@ -320,6 +320,8 @@ Click on the link to access the solution along with the code.
 | [Edit Distance](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1639.md) | Dynamic Programming |
 | [Rectangle cutting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1744.md) | Dynamic Programming |
 | [Money Sums](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1745.md) | Dynamic Programming |
+| [Removal Game](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1097.md) | Dynamic Programming |
+| [Two Set II](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1093.md) | Dynamic Programming |
 
 # Key Notes
 

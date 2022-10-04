@@ -27,6 +27,7 @@ Feel free to check out my coding profiles on [codeforces](https://codeforces.com
   - [Code Chef](https://github.com/rogue-kitten/DSA#code-chef)
   - [UVa Online Judge](https://github.com/rogue-kitten/DSA#uva-online-judge)
   - [CSES Problem Set](https://github.com/rogue-kitten/DSA#cses-problem-set)
+  - [Atcoder DP Contest](https://github.com/rogue-kitten/DSA#atcoder-dp-contest)
 - [Notes](https://github.com/rogue-kitten/DSA#key-notes)
 
   
@@ -294,7 +295,7 @@ Click on the link to access the solution along with the code.
 | 1230 | [MODEX](https://github.com/rogue-kitten/DSA/blob/main/Problems/UVa%20Online%20Judge/1230.cpp) | Number Theory |
 
 ## CSES Problem Set
- Name    |   Topic Tags    |
+| Name    |   Topic Tags    |
 | :-------| :----------|
 | [Distinct Numbers](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Distinct%20Numbers.cpp) | Searching and Sorting |
 | [Apartments](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Searching%20and%20Sorting/Apartments.cpp) | Searching and Sorting |
@@ -323,6 +324,18 @@ Click on the link to access the solution along with the code.
 | [Removal Game](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1097.md) | Dynamic Programming |
 | [Two Set II](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1093.md) | Dynamic Programming |
 
+
+## Atcoder DP Contest
+| Key    |   Name    |
+| :-------| :----------|
+| A | [Frog - 1](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/A.md) |
+| B | [Frog - 2](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/B.md) |
+| C | [Vacation](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/C.md) |
+| D | [Knapsack - 1](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/D.md) |
+| E | [Knapsack - 2](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/E.md) |
+| F | [LCS](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/F.md) |
+| H | [Grid 1](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/H.md) |
+| I | [Sushi](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/I.md) |
 # Key Notes
 
 1. [Policy Based Data Structures](https://github.com/rogue-kitten/DSA/tree/main/Policy%20Based%20Data%20Structure)

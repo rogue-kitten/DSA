@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP/5. Advance Concepts.md",
-            "mode": "source",
+            "file": "README.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP/5. Advance Concepts.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DP/5. Advance Concepts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DP/5. Advance Concepts.md"
+                "file": "README.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "114290e50a0c9b7d",
   "lastOpenFiles": [
+    "DP/5. Advance Concepts.md",
     "Problems/Atcoder/Educational DP contest/I.md",
     "README.md",
     "Problems/Atcoder/Educational DP contest/G.md",
@@ -146,7 +147,6 @@
     "Problems/Atcoder/Educational DP contest/D.md",
     "Problems/Atcoder/Educational DP contest/C.md",
     "Problems/Atcoder/Educational DP contest/B.md",
-    "Problems/Atcoder/Educational DP contest/A.md",
-    "DP/5. Advance Concepts.md"
+    "Problems/Atcoder/Educational DP contest/A.md"
   ]
 }

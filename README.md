@@ -335,7 +335,8 @@ Click on the link to access the solution along with the code.
 | E | [Knapsack - 2](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/E.md) |
 | F | [LCS](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/F.md) |
 | H | [Grid 1](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/H.md) |
-| I | [Sushi](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/I.md) |
+| I | [Coins](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/I.md) |
+| J | [Sushi](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/J.md) |
 # Key Notes
 
 1. [Policy Based Data Structures](https://github.com/rogue-kitten/DSA/tree/main/Policy%20Based%20Data%20Structure)

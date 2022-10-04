@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5a330fe19a95d489",
+        "id": "114290e50a0c9b7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP/4. Answer Construction and Non Integer DP.md",
+            "file": "DP/5. Advance Concepts.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP/4. Answer Construction and Non Integer DP.md",
+                "file": "DP/5. Advance Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DP/4. Answer Construction and Non Integer DP.md",
+                "file": "DP/5. Advance Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DP/4. Answer Construction and Non Integer DP.md"
+                "file": "DP/5. Advance Concepts.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "5a330fe19a95d489",
+  "active": "114290e50a0c9b7d",
   "lastOpenFiles": [
-    "Problems/CSES/Dynamic Programming/1097.md",
-    "Problems/CSES/Dynamic Programming/1093.md",
-    "DP/4. Answer Construction and Non Integer DP.md",
-    "DP/5. Advance Concepts.md",
+    "Problems/Atcoder/Educational DP contest/I.md",
     "README.md",
-    "Problems/CodeForces/1600/1151B.md",
-    "Problems/CSES/Dynamic Programming/1745.md",
-    "Problems/CSES/Dynamic Programming/1744.md",
-    "Problems/CSES/Dynamic Programming/1639.md",
-    "Problems/CSES/Dynamic Programming/2413.md"
+    "Problems/Atcoder/Educational DP contest/G.md",
+    "Problems/Atcoder/Educational DP contest/F.md",
+    "Problems/Atcoder/Educational DP contest/E.md",
+    "Problems/Atcoder/Educational DP contest/D.md",
+    "Problems/Atcoder/Educational DP contest/C.md",
+    "Problems/Atcoder/Educational DP contest/B.md",
+    "Problems/Atcoder/Educational DP contest/A.md",
+    "DP/5. Advance Concepts.md"
   ]
 }

@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "020629b0dc6e2f23",
+        "id": "01ef60a606ecd457",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Problems/CodeForces/1600/1526C2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "abe9ef64d4e26e37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -129,17 +149,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "020629b0dc6e2f23",
+  "active": "abe9ef64d4e26e37",
   "lastOpenFiles": [
-    "README.md",
-    "Problems/Atcoder/Educational DP contest/J.md",
+    "Problems/CodeForces/1600/1526C2.md",
     "DP/5. Advance Concepts.md",
+    "DP/4. Answer Construction and Non Integer DP.md",
+    "DP/3. State and transition optimisation.md",
+    "Problems/CodeForces/1500/1526C1.md",
+    "README.md",
+    "Problems/CodeForces/1500/1739C.md",
+    "Problems/Atcoder/Educational DP contest/J.md",
     "Problems/Atcoder/Educational DP contest/I.md",
-    "Problems/Atcoder/Educational DP contest/G.md",
-    "Problems/Atcoder/Educational DP contest/F.md",
-    "Problems/Atcoder/Educational DP contest/E.md",
-    "Problems/Atcoder/Educational DP contest/D.md",
-    "Problems/Atcoder/Educational DP contest/C.md",
-    "Problems/Atcoder/Educational DP contest/B.md"
+    "Problems/Atcoder/Educational DP contest/G.md"
   ]
 }

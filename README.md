@@ -170,6 +170,8 @@ Click on the link to access the solution along with the code.
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1722/G | [Even Odd Xor](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1722G.cpp) | Bitmasks |
+| 1739/C | [Card Games](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1739C.cpp) | DP |
+| 1526/C1 | [Potions (Easy Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1526C1.cpp) | DP |
 
 ### 1600 Rating
 
@@ -183,6 +185,7 @@ Click on the link to access the solution along with the code.
 | 1722/E | [Counting Rectangles](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1722E.cpp) | Prefix Sum |
 | 1497/C2 | [k-LCM (Hard Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1497C2.cpp) | Number Theory |
 | 1730/B | [Meeting on the line](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1730B.md) | Binary Seacrh |
+| 1526/C2 | [Potions (Hard Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1526C2.md) | Greedy |
 
 ### 1700 Rating
 

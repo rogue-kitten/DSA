@@ -172,6 +172,8 @@ Click on the link to access the solution along with the code.
 | 1722/G | [Even Odd Xor](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1722G.cpp) | Bitmasks |
 | 1739/C | [Card Games](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1739C.cpp) | DP |
 | 1526/C1 | [Potions (Easy Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1526C1.cpp) | DP |
+| 1538/F | [Interesting Functions](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1538F.cpp) | Greedy, Implementation |
+| 1552/B | [Running for gold](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1552B.cpp) | Greedy, Implementation |
 
 ### 1600 Rating
 
@@ -340,6 +342,10 @@ Click on the link to access the solution along with the code.
 | H | [Grid 1](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/H.md) |
 | I | [Coins](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/I.md) |
 | J | [Sushi](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/J.md) |
+| K | [Stones](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/K.md) |
+| L | [Deque](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/L.md) |
+| M | [Candies](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/M.md) |
+
 # Key Notes
 
 1. [Policy Based Data Structures](https://github.com/rogue-kitten/DSA/tree/main/Policy%20Based%20Data%20Structure)

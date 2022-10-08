@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0dcd76d587fade95",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Problems/Atcoder/Educational DP contest/M.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "f02ae8260d75f63f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Problems/CodeForces/1500/1739C.md",
             "mode": "source",
             "source": false
           }
@@ -73,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4a2b0e21a93205db",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Problems/CodeForces/1500/1739C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Problems/CodeForces/1500/1739C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Problems/CodeForces/1500/1739C.md"
               }
             }
           },
@@ -151,8 +138,8 @@
   },
   "active": "f02ae8260d75f63f",
   "lastOpenFiles": [
-    "Problems/Atcoder/Educational DP contest/M.md",
     "README.md",
+    "Problems/Atcoder/Educational DP contest/M.md",
     "Problems/Atcoder/Educational DP contest/L.md",
     "Problems/Atcoder/Educational DP contest/K.md",
     "Problems/CodeForces/1500/1552B.md",

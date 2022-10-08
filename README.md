@@ -3,7 +3,7 @@
 
 Everything I'm currently doing related to Competitive Programming/DSA at one place. 
 
-Feel free to check out my coding profiles on [codeforces](https://codeforces.com/profile/rouge_kitten) and [codechef](https://www.codechef.com/users/rouge_kitten) 
+Feel free to check out my coding profiles on [codeforces](https://codeforces.com/profile/rouge_kittn) and [codechef](https://www.codechef.com/users/rouge_kitten) 
 
 ## Table of Content
 
@@ -170,10 +170,10 @@ Click on the link to access the solution along with the code.
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1722/G | [Even Odd Xor](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1722G.cpp) | Bitmasks |
-| 1739/C | [Card Games](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1739C.cpp) | DP |
-| 1526/C1 | [Potions (Easy Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1526C1.cpp) | DP |
-| 1538/F | [Interesting Functions](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1538F.cpp) | Greedy, Implementation |
-| 1552/B | [Running for gold](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1552B.cpp) | Greedy, Implementation |
+| 1739/C | [Card Games](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1739C.md) | DP |
+| 1526/C1 | [Potions (Easy Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1526C1.md) | DP |
+| 1538/F | [Interesting Functions](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1538F.md) | Greedy, Implementation |
+| 1552/B | [Running for gold](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1552B.md) | Greedy, Implementation |
 
 ### 1600 Rating
 

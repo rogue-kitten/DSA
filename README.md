@@ -222,6 +222,9 @@ Click on the link to access the solution along with the code.
 | 34. [Find First and Last Position of Element in Sorted Array](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/34.cpp) | Medium     | Binary Search                   |
 | 33. [Search in Rotated and Sorted Array](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/33.cpp)                      | Medium     | Binary Search                   |
 | 198. [House Robber](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/198.cpp)                                          | Medium     | Dynamic Programming                   |
+| 312. [Burst Balloons](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/312.md)                                          | Hard     | Dynamic Programming |
+| 1000. [Merge Stones](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/1000.md)                                          | Hard     | Dynamic Programming |
+
 
 ## GeeksForGeeks
 | Name | Difficulty    |   Topic Tags    |
@@ -345,6 +348,7 @@ Click on the link to access the solution along with the code.
 | K | [Stones](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/K.md) |
 | L | [Deque](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/L.md) |
 | M | [Candies](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/M.md) |
+| N | [Slime](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/N.md) |
 
 # Key Notes
 

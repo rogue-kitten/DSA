@@ -174,6 +174,7 @@ Click on the link to access the solution along with the code.
 | 1526/C1 | [Potions (Easy Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1526C1.md) | DP |
 | 1538/F | [Interesting Functions](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1538F.md) | Greedy, Implementation |
 | 1552/B | [Running for gold](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1552B.md) | Greedy, Implementation |
+| 1516/B | [AGAGA XOOORRR](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1516B.md) | Greedy, Bitmanipulation |
 
 ### 1600 Rating
 
@@ -224,6 +225,7 @@ Click on the link to access the solution along with the code.
 | 198. [House Robber](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/198.cpp)                                          | Medium     | Dynamic Programming                   |
 | 312. [Burst Balloons](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/312.md)                                          | Hard     | Dynamic Programming |
 | 1000. [Merge Stones](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/1000.md)                                          | Hard     | Dynamic Programming |
+| 1879. [Minimum XOR Sum of Two Arrays](https://github.com/rogue-kitten/DSA/blob/main/Problems/Leetcode/1879.md)                                          | Hard     | Dynamic Programming, Bitmasking |
 
 
 ## GeeksForGeeks
@@ -331,6 +333,8 @@ Click on the link to access the solution along with the code.
 | [Money Sums](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1745.md) | Dynamic Programming |
 | [Removal Game](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1097.md) | Dynamic Programming |
 | [Two Set II](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1093.md) | Dynamic Programming |
+| [Increasing Subsequence](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1145.md) | Dynamic Programming |
+| [Projects](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1140.md) | Dynamic Programming |
 
 
 ## Atcoder DP Contest
@@ -349,6 +353,7 @@ Click on the link to access the solution along with the code.
 | L | [Deque](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/L.md) |
 | M | [Candies](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/M.md) |
 | N | [Slime](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/N.md) |
+| O | [Matching](https://github.com/rogue-kitten/DSA/blob/main/Problems/Atcoder/Educational%20DP%20contest/O.md) |
 
 # Key Notes
 

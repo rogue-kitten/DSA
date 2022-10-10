@@ -115,6 +115,7 @@ Click on the link to access the solution along with the code.
 | 1512/C     | [A-B Palindrome](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1512C.md)              | Greedy      |
 | 1734/C     | [Remove Smallest Multiple](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/822%20Div%202/1734C.md)  | Greedy      |
 | 1730/C     | [Minimum Notation](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1730C.md)  | Greedy, String, Sorting      |
+| 1530/C     | [Pursuit](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1530C.md)  | Binary Search      |
 
 ### 1300 Rating
 
@@ -142,6 +143,9 @@ Click on the link to access the solution along with the code.
 | 230/B     | [T-Primes](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/230B.md)     | Number Theory |
 | 1466/C     | [Canine Poetry](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/1466C.md)     | Strings, Greedy |
 | 1733/C | [Parity Shuffle Sorting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733C.md) |Sorting, Greedy  |
+| 1498/B | [Box Fitting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1498B.md) |Greedy, Binary Search |
+| 1612/C | [Chat Ban](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1612C.md) | Binary Search |
+| 1372/B | [Omkar and the last class of math](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1372B.md) | Number Theory |
 
 ### 1400 Rating
 
@@ -175,6 +179,7 @@ Click on the link to access the solution along with the code.
 | 1538/F | [Interesting Functions](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1538F.md) | Greedy, Implementation |
 | 1552/B | [Running for gold](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1552B.md) | Greedy, Implementation |
 | 1516/B | [AGAGA XOOORRR](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1516B.md) | Greedy, Bitmanipulation |
+| 1516/B | [Plus and Multiply](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1542B.md) | Greedy, Number Theory |
 
 ### 1600 Rating
 
@@ -335,6 +340,7 @@ Click on the link to access the solution along with the code.
 | [Two Set II](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1093.md) | Dynamic Programming |
 | [Increasing Subsequence](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1145.md) | Dynamic Programming |
 | [Projects](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1140.md) | Dynamic Programming |
+| [Elevator Rides](https://github.com/rogue-kitten/DSA/blob/main/Problems/CSES/Dynamic%20Programming/1653.md) | Dynamic Programming |
 
 
 ## Atcoder DP Contest

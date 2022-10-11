@@ -117,6 +117,9 @@ Click on the link to access the solution along with the code.
 | 1730/C     | [Minimum Notation](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1730C.md)  | Greedy, String, Sorting      |
 | 1530/C     | [Pursuit](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1530C.md)  | Binary Search      |
 | 1497/B     | [m-Arrays](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1497B.md)  | Greedy      |
+| 1365/B | [Trouble Sort](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1365B.md) | Greedy |
+| 1504/B | [Flip the bits](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1504B.md) | Greedy |
+
 
 ### 1300 Rating
 
@@ -147,7 +150,7 @@ Click on the link to access the solution along with the code.
 | 1498/B | [Box Fitting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1498B.md) |Greedy, Binary Search |
 | 1612/C | [Chat Ban](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1612C.md) | Binary Search |
 | 1372/B | [Omkar and the last class of math](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1372B.md) | Number Theory |
-| 1365/B | [Trouble Sort](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1365B.md) | Greedy |
+| 1454/D | [Number into sequence](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1454D.md) | Number Theory |
 
 ### 1400 Rating
 

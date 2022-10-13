@@ -173,6 +173,7 @@ Click on the link to access the solution along with the code.
 | 1519/C | [Berland Regionals)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1519C.md) |Greedy, Sorting, Prefix Sum  |
 | 1606/C | [Bank Notes](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1400/1606C.md) |Greedy  |
 | 1597/D | [Productive Meeting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/1597D.md) |Greedy  |
+| 699/C | [Vacations](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/699C.md) |DP  |
 
 ### 1500 Rating
 

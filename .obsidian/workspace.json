@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "50b29130e594c653",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db378f54110d17e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ab5ce76fcb7ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Randomised Algos/Order Statistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7f447f19f42f45c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f43e680b8748eb56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c912b08e017ca7f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afcbe01fb7176037",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82b926ccfd35e956",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a2b0e21a93205db",
+    "type": "split",
+    "children": [
+      {
+        "id": "15d77da1a00b57a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e55f2305e534122",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Randomised Algos/Order Statistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12fd1db4c48471bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Randomised Algos/Order Statistics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9324a4aa733c8798",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98795f47a5255a61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Randomised Algos/Order Statistics.md"
+              }
+            }
+          },
+          {
+            "id": "54c284ed562604f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c912b08e017ca7f1",
+  "lastOpenFiles": [
+    "Randomised Algos/Quick Sort.md",
+    "Randomised Algos/Order Statistics.md",
+    "README.md",
+    "Problems/CodeForces/1400/699C.md",
+    "Problems/CodeForces/1300/1454D.md",
+    "Problems/CodeForces/1200/1504B.md",
+    "Problems/CodeForces/1200/1497B.md",
+    "Problems/CodeForces/1300/1365B.md",
+    "Problems/CodeForces/1300/1372B.md",
+    "Problems/CodeForces/1300/1612C.md"
+  ]
+}

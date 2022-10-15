@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4db378f54110d17e",
+        "id": "40443b1cfbfc2af7",
         "type": "tabs",
         "children": [
           {
-            "id": "72ab5ce76fcb7ad0",
+            "id": "ffc54e4f2bc66aed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Randomised Algos/Order Statistics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Randomised Algos/Order Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Randomised Algos/Order Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Randomised Algos/Order Statistics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c912b08e017ca7f1",
+  "active": "ffc54e4f2bc66aed",
   "lastOpenFiles": [
-    "Randomised Algos/Quick Sort.md",
-    "Randomised Algos/Order Statistics.md",
     "README.md",
+    "Problems/CodeForces/1500/545C.md",
+    "Randomised Algos/Order Statistics.md",
+    "Randomised Algos/Quick Sort.md",
     "Problems/CodeForces/1400/699C.md",
     "Problems/CodeForces/1300/1454D.md",
     "Problems/CodeForces/1200/1504B.md",
     "Problems/CodeForces/1200/1497B.md",
     "Problems/CodeForces/1300/1365B.md",
-    "Problems/CodeForces/1300/1372B.md",
-    "Problems/CodeForces/1300/1612C.md"
+    "Problems/CodeForces/1300/1372B.md"
   ]
 }

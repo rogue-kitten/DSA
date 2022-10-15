@@ -186,6 +186,7 @@ Click on the link to access the solution along with the code.
 | 1552/B | [Running for gold](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1552B.md) | Greedy, Implementation |
 | 1516/B | [AGAGA XOOORRR](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1516B.md) | Greedy, Bitmanipulation |
 | 1516/B | [Plus and Multiply](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/1542B.md) | Greedy, Number Theory |
+| 545/C | [Woodcutters](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1500/545C.md) | DP |
 
 ### 1600 Rating
 

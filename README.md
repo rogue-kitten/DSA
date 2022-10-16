@@ -119,6 +119,8 @@ Click on the link to access the solution along with the code.
 | 1497/B     | [m-Arrays](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1497B.md)  | Greedy      |
 | 1365/B | [Trouble Sort](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1365B.md) | Greedy |
 | 1504/B | [Flip the bits](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1504B.md) | Greedy |
+| 1272/C | [Yet Another broken keyboard](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1272C.md) | Implementation |
+| 1042/B | [Vitamins](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1042B.md) | DP |
 
 
 ### 1300 Rating
@@ -207,12 +209,14 @@ Click on the link to access the solution along with the code.
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 630/I | [Parking Lot](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1700/630I.md) | Combinatorics |
+| 225/C | [Barcode](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1700/225C.md) | DP |
 
 ### 1800 Rating
 
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1721/D| [Maximum AND](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1800/1721D.cpp) | Bitmanipulation, Greedy |
+| 830/A| [Office Keys](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1800/820A.md) | DP |
 
 ### 2000 Rating
 
@@ -315,6 +319,7 @@ Click on the link to access the solution along with the code.
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1230 | [MODEX](https://github.com/rogue-kitten/DSA/blob/main/Problems/UVa%20Online%20Judge/1230.cpp) | Number Theory |
+| 11904 | [Continents](https://github.com/rogue-kitten/DSA/blob/main/Problems/UVa%20Online%20Judge/11904.md) | DFS |
 
 ## CSES Problem Set
 | Name    |   Topic Tags    |

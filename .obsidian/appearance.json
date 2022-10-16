@@ -3,5 +3,6 @@
   "interfaceFontFamily": "SF Pro Rounded",
   "baseFontSize": 20,
   "textFontFamily": "SF Pro Rounded",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

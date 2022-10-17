@@ -117,10 +117,10 @@ Click on the link to access the solution along with the code.
 | 1730/C     | [Minimum Notation](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1730C.md)  | Greedy, String, Sorting      |
 | 1530/C     | [Pursuit](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1530C.md)  | Binary Search      |
 | 1497/B     | [m-Arrays](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1497B.md)  | Greedy      |
-| 1365/B | [Trouble Sort](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1365B.md) | Greedy |
-| 1504/B | [Flip the bits](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1504B.md) | Greedy |
-| 1272/C | [Yet Another broken keyboard](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1272C.md) | Implementation |
-| 1042/B | [Vitamins](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1042B.md) | DP |
+| 1365/B | [Trouble Sort](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1365B.md) | Greedy |
+| 1504/B | [Flip the bits](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1504B.md) | Greedy |
+| 1272/C | [Yet Another broken keyboard](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1272C.md) | Implementation |
+| 1042/B | [Vitamins](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1200/1042B.md) | DP |
 
 
 ### 1300 Rating
@@ -148,11 +148,11 @@ Click on the link to access the solution along with the code.
 | 1360/D     | [Buying Shovels](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/1360D.md)     | Greedy, Number Theory |
 | 230/B     | [T-Primes](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/230B.md)     | Number Theory |
 | 1466/C     | [Canine Poetry](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/1466C.md)     | Strings, Greedy |
-| 1733/C | [Parity Shuffle Sorting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1733C.md) |Sorting, Greedy  |
-| 1498/B | [Box Fitting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1498B.md) |Greedy, Binary Search |
-| 1612/C | [Chat Ban](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1612C.md) | Binary Search |
-| 1372/B | [Omkar and the last class of math](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1372B.md) | Number Theory |
-| 1454/D | [Number into sequence](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/Contests/821%20Div%202/1454D.md) | Number Theory |
+| 1733/C | [Parity Shuffle Sorting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/1733C.md) |Sorting, Greedy  |
+| 1498/B | [Box Fitting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/1498B.md) |Greedy, Binary Search |
+| 1612/C | [Chat Ban](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/1612C.md) | Binary Search |
+| 1372/B | [Omkar and the last class of math](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/1372B.md) | Number Theory |
+| 1454/D | [Number into sequence](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1300/1454D.md) | Number Theory |
 
 ### 1400 Rating
 
@@ -176,6 +176,9 @@ Click on the link to access the solution along with the code.
 | 1606/C | [Bank Notes](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1400/1606C.md) |Greedy  |
 | 1597/D | [Productive Meeting](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/1597D.md) |Greedy  |
 | 699/C | [Vacations](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/699C.md) |DP  |
+| 534/B | [Covered Path](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/534B.md) |DP  |
+| 987/C | [Three Displays](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/987C.md) |DP  |
+| 414/B | [Mashmokh and ACM](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/414B.md) |DP, Number theory  |
 
 ### 1500 Rating
 
@@ -203,6 +206,7 @@ Click on the link to access the solution along with the code.
 | 1497/C2 | [k-LCM (Hard Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1497C2.cpp) | Number Theory |
 | 1730/B | [Meeting on the line](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1730B.md) | Binary Seacrh |
 | 1526/C2 | [Potions (Hard Version)](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/1526C2.md) | Greedy |
+| 888/D | [Almost Identity Permutations](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1600/888D.md) | Combinatorics, DP |
 
 ### 1700 Rating
 

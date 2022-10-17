@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea7bfc537050988",
+        "id": "abccc530509f798c",
         "type": "tabs",
         "children": [
           {
-            "id": "48b145d0521ffe91",
+            "id": "9091c9fdc11bed8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/CodeForces/1800/830A.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4a2b0e21a93205db",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/CodeForces/1800/830A.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/CodeForces/1800/830A.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/CodeForces/1800/830A.md"
+                "file": "README.md"
               }
             }
           },
@@ -148,17 +149,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "48b145d0521ffe91",
+  "active": "9091c9fdc11bed8d",
   "lastOpenFiles": [
-    "images/Pasted image 20221017031743.png",
+    "Problems/CodeForces/1400/414B.md",
     "README.md",
-    "images/Pasted image 20221017031710.png",
-    "Problems/CodeForces/1800/830A.md",
+    "Problems/CodeForces/1400/987C.md",
+    "Problems/CodeForces/1400/534B.md",
     "Problems/CodeForces/1200/1042B.md",
-    "Problems/CodeForces/1200/1272C.md",
-    "Problems/UVa Online Judge/11904.md",
-    "Problems/CodeForces/1700/225C.md",
-    "Problems/CodeForces/800/1730A.md",
-    "Problems/CodeForces/1500/545C.md"
+    "Problems/CodeForces/1600/888D.md",
+    "Problems/CodeForces/1800/830A.md",
+    "images/Pasted image 20221017031743.png",
+    "images/Pasted image 20221017031710.png",
+    "Problems/CodeForces/1200/1272C.md"
   ]
 }

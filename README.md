@@ -180,6 +180,7 @@ Click on the link to access the solution along with the code.
 | 987/C | [Three Displays](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/987C.md) |DP  |
 | 414/B | [Mashmokh and ACM](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/414B.md) |DP, Number theory  |
 | 548/B | [Mike and fun](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/548B.md) |Greedy  |
+| 515/C | [Drazil and Sortings](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/515C.md) |Greedy  |
 
 ### 1500 Rating
 

@@ -179,6 +179,7 @@ Click on the link to access the solution along with the code.
 | 534/B | [Covered Path](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/534B.md) |DP  |
 | 987/C | [Three Displays](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/987C.md) |DP  |
 | 414/B | [Mashmokh and ACM](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/414B.md) |DP, Number theory  |
+| 548/B | [Mike and fun](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces//1400/548B.md) |Greedy  |
 
 ### 1500 Rating
 
@@ -220,7 +221,7 @@ Click on the link to access the solution along with the code.
 | Problem ID | Name    |   Topic Tags    |
 | :-------- | :------- | :-------        |
 | 1721/D| [Maximum AND](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1800/1721D.cpp) | Bitmanipulation, Greedy |
-| 830/A| [Office Keys](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1800/820A.md) | DP |
+| 830/A| [Office Keys](https://github.com/rogue-kitten/DSA/blob/main/Problems/CodeForces/1800/830A.md) | DP |
 
 ### 2000 Rating
 

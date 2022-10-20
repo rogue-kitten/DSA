@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7187c8b6bf3673ef",
+        "id": "f1c5b638b882378c",
         "type": "tabs",
         "children": [
           {
-            "id": "6a6bd803a2c409a1",
+            "id": "6a13bbc02e6ca0eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/CodeForces/1400/515C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e882944d63030380",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09bfc09f2a76f7e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Graphs/1. DFS and Topological sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4a2b0e21a93205db",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Graphs/1. DFS and Topological sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Graphs/1. DFS and Topological sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Graphs/1. DFS and Topological sort.md"
               }
             }
           },
@@ -167,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "09bfc09f2a76f7e5",
+  "active": "6a13bbc02e6ca0eb",
   "lastOpenFiles": [
-    "Problems/CodeForces/1400/515C.md",
-    "README.md",
-    "Problems/CodeForces/1400/548B.md",
-    "Problems/CodeForces/1400/414B.md",
-    "Problems/CodeForces/1400/987C.md",
-    "Problems/CodeForces/1400/534B.md",
-    "Problems/CodeForces/1200/1042B.md",
-    "Problems/CodeForces/1600/888D.md",
-    "Problems/CodeForces/1800/830A.md",
-    "images/Pasted image 20221017031743.png"
+    "images/Pasted image 20221021023257.png",
+    "Graphs/1. DFS and Topological sort.md",
+    "images/Pasted image 20221020185642.png",
+    "DP/1. Intro and Basics.md",
+    "images/Pasted image 20221020175639.png",
+    "images/Pasted image 20220929170705.png",
+    "images/IMG_3940.jpeg",
+    "images/IMG_3939.jpeg",
+    "images/IMG_3928.jpeg",
+    "Pasted image 20221020175305.png"
   ]
 }

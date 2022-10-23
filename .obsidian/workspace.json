@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1c5b638b882378c",
+        "id": "4acde715b4744cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "6a13bbc02e6ca0eb",
+            "id": "47c9806feb13bed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/1. DFS and Topological sort.md",
+                "file": "Graphs/2. Connectivity in directed graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/1. DFS and Topological sort.md",
+                "file": "Graphs/2. Connectivity in directed graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/1. DFS and Topological sort.md",
+                "file": "Graphs/2. Connectivity in directed graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/1. DFS and Topological sort.md"
+                "file": "Graphs/2. Connectivity in directed graphs.md"
               }
             }
           },
@@ -148,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6a13bbc02e6ca0eb",
+  "active": "47c9806feb13bed1",
   "lastOpenFiles": [
-    "images/Pasted image 20221021023257.png",
+    "images/Pasted image 20221022225628.png",
+    "Graphs/2. Connectivity in directed graphs.md",
+    "images/Pasted image 20221022210451.png",
+    "images/Pasted image 20221022192757.png",
     "Graphs/1. DFS and Topological sort.md",
+    "images/Pasted image 20221021023257.png",
     "images/Pasted image 20221020185642.png",
     "DP/1. Intro and Basics.md",
     "images/Pasted image 20221020175639.png",
-    "images/Pasted image 20220929170705.png",
-    "images/IMG_3940.jpeg",
-    "images/IMG_3939.jpeg",
-    "images/IMG_3928.jpeg",
-    "Pasted image 20221020175305.png"
+    "images/Pasted image 20220929170705.png"
   ]
 }
